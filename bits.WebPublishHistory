@@ -1,0 +1,3606 @@
+<PubHist<[1]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\edit.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 83 pm')>
+>
+<[2]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\football.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 84 pm')>
+>
+<[3]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\half.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 84 pm')>
+>
+<[4]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 85 pm')>
+>
+<[5]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\infographic.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 86 pm')>
+>
+<[6]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\infographicsi.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 86 pm')>
+>
+<[7]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\sample-1.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 87 pm')>
+>
+<[8]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\sample.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 88 pm')>
+>
+<[9]<type="A5WPage">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\template.a5w}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:35 88 pm')>
+>
+<[10]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\devcon_demo.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 09 pm')>
+>
+<[11]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\edit.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 23 pm')>
+>
+<[12]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\ga_autocomplete.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 32 pm')>
+>
+<[13]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\half.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 34 pm')>
+>
+<[14]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\info_grapic1.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 45 pm')>
+>
+<[15]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\info_grapic1mc.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 56 pm')>
+>
+<[16]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\info_grapic1simon.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 66 pm')>
+>
+<[17]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\listimagesgallery.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 76 pm')>
+>
+<[18]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\picture.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 78 pm')>
+>
+<[19]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\sample_2.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 80 pm')>
+>
+<[20]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\templatemenu.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 81 pm')>
+>
+<[21]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\templatemenuss.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 81 pm')>
+>
+<[22]<type="WebComponent">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\tes.a5wcmp}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 82 pm')>
+>
+<[23]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 83 pm')>
+>
+<[24]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 83 pm')>
+>
+<[25]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\style.css}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 83 pm')>
+>
+<[26]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:36 88 pm')>
+>
+<[27]<type="css">
+<name="alpha">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 07 pm')>
+>
+<[28]<type="css">
+<name="grgray">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 17 pm')>
+>
+<[29]<type="css">
+<name="ios7">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 62 pm')>
+>
+<[30]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 66 pm')>
+>
+<[31]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 69 pm')>
+>
+<[32]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 69 pm')>
+>
+<[33]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 69 pm')>
+>
+<[34]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 70 pm')>
+>
+<[35]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 70 pm')>
+>
+<[36]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 70 pm')>
+>
+<[37]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest(1).zip}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 71 pm')>
+>
+<[38]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\fonts\icomoon.eot}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 71 pm')>
+>
+<[39]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\fonts\icomoon.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 71 pm')>
+>
+<[40]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\fonts\icomoon.ttf}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 72 pm')>
+>
+<[41]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\fonts\icomoon.woff}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 72 pm')>
+>
+<[42]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\academiccap.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 72 pm')>
+>
+<[43]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\add.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 72 pm')>
+>
+<[44]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\addcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 72 pm')>
+>
+<[45]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\addcircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 73 pm')>
+>
+<[46]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\addlarge.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 73 pm')>
+>
+<[47]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\addsquare.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 73 pm')>
+>
+<[48]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\addsquareborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 73 pm')>
+>
+<[49]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\angle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 74 pm')>
+>
+<[50]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\appenter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 74 pm')>
+>
+<[51]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\appexit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 74 pm')>
+>
+<[52]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowdown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 74 pm')>
+>
+<[53]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowdownleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 75 pm')>
+>
+<[54]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowdownright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 75 pm')>
+>
+<[55]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 75 pm')>
+>
+<[56]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 75 pm')>
+>
+<[57]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrows.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 76 pm')>
+>
+<[58]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowshorizontal.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 76 pm')>
+>
+<[59]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 76 pm')>
+>
+<[60]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsinhorizontal.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 76 pm')>
+>
+<[61]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsinvertical.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 77 pm')>
+>
+<[62]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 77 pm')>
+>
+<[63]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsouthorizontal.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 77 pm')>
+>
+<[64]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsoutvertical.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 77 pm')>
+>
+<[65]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsswaphorizontal.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 77 pm')>
+>
+<[66]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsswapvertical.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 79 pm')>
+>
+<[67]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowsvertical.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 79 pm')>
+>
+<[68]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 79 pm')>
+>
+<[69]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowupleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 79 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\arrowupright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 80 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\audio.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 80 pm')>
+>
+<[72]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\backspace.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 80 pm')>
+>
+<[73]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bag.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 80 pm')>
+>
+<[74]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 80 pm')>
+>
+<[75]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 81 pm')>
+>
+<[76]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 81 pm')>
+>
+<[77]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 81 pm')>
+>
+<[78]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagfull.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 81 pm')>
+>
+<[79]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagfullsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 82 pm')>
+>
+<[80]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 82 pm')>
+>
+<[81]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 82 pm')>
+>
+<[82]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 82 pm')>
+>
+<[83]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 83 pm')>
+>
+<[84]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bagxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 83 pm')>
+>
+<[85]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bandaid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 83 pm')>
+>
+<[86]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bandaidcrossed.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 83 pm')>
+>
+<[87]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bandaidcrossedsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 83 pm')>
+>
+<[88]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bandaidsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 84 pm')>
+>
+<[89]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bars.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 84 pm')>
+>
+<[90]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basket.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 84 pm')>
+>
+<[91]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 84 pm')>
+>
+<[92]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 85 pm')>
+>
+<[93]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 85 pm')>
+>
+<[94]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 85 pm')>
+>
+<[95]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketfull.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 85 pm')>
+>
+<[96]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketfullsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 86 pm')>
+>
+<[97]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 86 pm')>
+>
+<[98]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 86 pm')>
+>
+<[99]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 86 pm')>
+>
+<[100]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 87 pm')>
+>
+<[101]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\basketxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 87 pm')>
+>
+<[102]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\battery.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 87 pm')>
+>
+<[103]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\batteryempty.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 87 pm')>
+>
+<[104]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\batteryhigh.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 87 pm')>
+>
+<[105]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\batterylow.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 88 pm')>
+>
+<[106]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\batterymid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 88 pm')>
+>
+<[107]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\beaker.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 89 pm')>
+>
+<[108]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\beakerreaction.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 89 pm')>
+>
+<[109]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bell.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 89 pm')>
+>
+<[110]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\belloff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 89 pm')>
+>
+<[111]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bellring.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 90 pm')>
+>
+<[112]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\binoculars.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 90 pm')>
+>
+<[113]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\book.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 90 pm')>
+>
+<[114]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 90 pm')>
+>
+<[115]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 90 pm')>
+>
+<[116]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookcontact.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 91 pm')>
+>
+<[117]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookdogeared.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 91 pm')>
+>
+<[118]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookedit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 91 pm')>
+>
+<[119]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookmark.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 91 pm')>
+>
+<[120]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookmarked.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 92 pm')>
+>
+<[121]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookmarks.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 92 pm')>
+>
+<[122]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookmarksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 92 pm')>
+>
+<[123]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookmarkssolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 92 pm')>
+>
+<[124]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookopen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 92 pm')>
+>
+<[125]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookopenmarked.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 93 pm')>
+>
+<[126]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 93 pm')>
+>
+<[127]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\books.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 93 pm')>
+>
+<[128]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bookx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 93 pm')>
+>
+<[129]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\briefcase.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 94 pm')>
+>
+<[130]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\broom.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 94 pm')>
+>
+<[131]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\broomsweep.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 94 pm')>
+>
+<[132]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bucket.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 94 pm')>
+>
+<[133]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bucketpour.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 95 pm')>
+>
+<[134]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bucketpoursolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 95 pm')>
+>
+<[135]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bucketpourtrans.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 95 pm')>
+>
+<[136]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\bucketsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 95 pm')>
+>
+<[137]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\buckettrans.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 95 pm')>
+>
+<[138]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendar.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 96 pm')>
+>
+<[139]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendaradd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 96 pm')>
+>
+<[140]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendarcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 96 pm')>
+>
+<[141]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendardate.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 96 pm')>
+>
+<[142]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendaredit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 97 pm')>
+>
+<[143]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendarremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 97 pm')>
+>
+<[144]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendarweek.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 97 pm')>
+>
+<[145]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\calendarx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 97 pm')>
+>
+<[146]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\camera.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 97 pm')>
+>
+<[147]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cameravideo.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 98 pm')>
+>
+<[148]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cart.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 98 pm')>
+>
+<[149]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 98 pm')>
+>
+<[150]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 98 pm')>
+>
+<[151]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 99 pm')>
+>
+<[152]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 99 pm')>
+>
+<[153]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartfull.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 99 pm')>
+>
+<[154]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartfullsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:37 99 pm')>
+>
+<[155]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 00 pm')>
+>
+<[156]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 00 pm')>
+>
+<[157]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 00 pm')>
+>
+<[158]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 00 pm')>
+>
+<[159]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cartxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 00 pm')>
+>
+<[160]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chartarea.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 01 pm')>
+>
+<[161]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chartbar.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 01 pm')>
+>
+<[162]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chartline.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 01 pm')>
+>
+<[163]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chartpie.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 01 pm')>
+>
+<[164]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\check.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 02 pm')>
+>
+<[165]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\checkcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 02 pm')>
+>
+<[166]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\checkcircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 02 pm')>
+>
+<[167]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\checklist.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 02 pm')>
+>
+<[168]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\checkshield.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 03 pm')>
+>
+<[169]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\checksquare.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 03 pm')>
+>
+<[170]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\checksquareborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 03 pm')>
+>
+<[171]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevrondbldown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 03 pm')>
+>
+<[172]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevrondblleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 03 pm')>
+>
+<[173]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevrondblright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 04 pm')>
+>
+<[174]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevrondblup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 04 pm')>
+>
+<[175]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevrondown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 04 pm')>
+>
+<[176]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevronleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 04 pm')>
+>
+<[177]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevronright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 05 pm')>
+>
+<[178]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\chevronup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 05 pm')>
+>
+<[179]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\circle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 05 pm')>
+>
+<[180]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\circleslash.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 05 pm')>
+>
+<[181]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\circlesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 06 pm')>
+>
+<[182]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\circlesolidwithborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 06 pm')>
+>
+<[183]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboard.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 06 pm')>
+>
+<[184]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 06 pm')>
+>
+<[185]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 07 pm')>
+>
+<[186]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 07 pm')>
+>
+<[187]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 07 pm')>
+>
+<[188]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 07 pm')>
+>
+<[189]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 07 pm')>
+>
+<[190]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 08 pm')>
+>
+<[191]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 08 pm')>
+>
+<[192]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clipboardxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 08 pm')>
+>
+<[193]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clock.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 08 pm')>
+>
+<[194]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clockalarm.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 09 pm')>
+>
+<[195]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clockalarmadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 09 pm')>
+>
+<[196]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clockalarmcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 09 pm')>
+>
+<[197]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clockalarmremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 09 pm')>
+>
+<[198]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clockalarmring.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 09 pm')>
+>
+<[199]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\clockalarmx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 10 pm')>
+>
+<[200]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cloud.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 10 pm')>
+>
+<[201]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codebug.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 10 pm')>
+>
+<[202]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebug.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 10 pm')>
+>
+<[203]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugbreakpoint.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 11 pm')>
+>
+<[204]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugbreakpointoff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 11 pm')>
+>
+<[205]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebughalt.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 11 pm')>
+>
+<[206]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugpause.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 11 pm')>
+>
+<[207]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugresume.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 12 pm')>
+>
+<[208]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugrun.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 12 pm')>
+>
+<[209]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugstep.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 12 pm')>
+>
+<[210]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugstepin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 12 pm')>
+>
+<[211]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugstepout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 13 pm')>
+>
+<[212]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\codedebugstepskip.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 13 pm')>
+>
+<[213]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\comment.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 13 pm')>
+>
+<[214]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 13 pm')>
+>
+<[215]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 14 pm')>
+>
+<[216]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 14 pm')>
+>
+<[217]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 14 pm')>
+>
+<[218]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentedit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 14 pm')>
+>
+<[219]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commenteditsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 14 pm')>
+>
+<[220]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commenterror.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 15 pm')>
+>
+<[221]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commenterrorsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 15 pm')>
+>
+<[222]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentinfo.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 15 pm')>
+>
+<[223]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentinfosolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 15 pm')>
+>
+<[224]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commenting.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 16 pm')>
+>
+<[225]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentingsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 16 pm')>
+>
+<[226]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentperson.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 16 pm')>
+>
+<[227]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentpersonsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 16 pm')>
+>
+<[228]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentquestion.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 17 pm')>
+>
+<[229]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentquestionsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 17 pm')>
+>
+<[230]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentquote.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 17 pm')>
+>
+<[231]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentquotesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 17 pm')>
+>
+<[232]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 17 pm')>
+>
+<[233]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 18 pm')>
+>
+<[234]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\comments.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 18 pm')>
+>
+<[235]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 18 pm')>
+>
+<[236]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentssolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 18 pm')>
+>
+<[237]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 19 pm')>
+>
+<[238]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\commentxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 19 pm')>
+>
+<[239]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\compass.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 19 pm')>
+>
+<[240]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\compress.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 19 pm')>
+>
+<[241]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\compressalt.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 20 pm')>
+>
+<[242]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\creditcard.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 20 pm')>
+>
+<[243]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\creditcards.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 20 pm')>
+>
+<[244]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\creditcardsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 20 pm')>
+>
+<[245]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\creditcardssolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 21 pm')>
+>
+<[246]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cube.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 21 pm')>
+>
+<[247]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\cubesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 21 pm')>
+>
+<[248]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\databarcode.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 21 pm')>
+>
+<[249]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\datajson.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 22 pm')>
+>
+<[250]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\dataqrcode.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 22 pm')>
+>
+<[251]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\datarss.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 22 pm')>
+>
+<[252]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\dataxml.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 22 pm')>
+>
+<[253]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\datetime.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 22 pm')>
+>
+<[254]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\delivery.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 23 pm')>
+>
+<[255]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\deliveryadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 23 pm')>
+>
+<[256]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\deliverycheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 23 pm')>
+>
+<[257]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\deliverymoving.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 23 pm')>
+>
+<[258]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\deliveryremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 24 pm')>
+>
+<[259]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\deliveryx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 24 pm')>
+>
+<[260]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\devicedesktop.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 24 pm')>
+>
+<[261]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\devicelaptop.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 24 pm')>
+>
+<[262]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\devicemobile.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 25 pm')>
+>
+<[263]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\devicephone.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 25 pm')>
+>
+<[264]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\deviceprinter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 25 pm')>
+>
+<[265]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\devicetablet.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 25 pm')>
+>
+<[266]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 26 pm')>
+>
+<[267]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 26 pm')>
+>
+<[268]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docaddcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 26 pm')>
+>
+<[269]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 26 pm')>
+>
+<[270]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docaudio.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 26 pm')>
+>
+<[271]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docaudiosolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 27 pm')>
+>
+<[272]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doccheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 27 pm')>
+>
+<[273]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doccheckcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 27 pm')>
+>
+<[274]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 27 pm')>
+>
+<[275]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docduplicate.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 28 pm')>
+>
+<[276]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docduplicatesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 28 pm')>
+>
+<[277]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docedit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 28 pm')>
+>
+<[278]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doceditsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 28 pm')>
+>
+<[279]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docexport.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 29 pm')>
+>
+<[280]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docimage.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 29 pm')>
+>
+<[281]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docimagesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 29 pm')>
+>
+<[282]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docimport.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 29 pm')>
+>
+<[283]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 29 pm')>
+>
+<[284]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docink.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 30 pm')>
+>
+<[285]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docinksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 30 pm')>
+>
+<[286]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 30 pm')>
+>
+<[287]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docjson.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 30 pm')>
+>
+<[288]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docjsonsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 31 pm')>
+>
+<[289]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doclock.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 31 pm')>
+>
+<[290]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doclockopen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 31 pm')>
+>
+<[291]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doclockopensolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 31 pm')>
+>
+<[292]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doclocksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 32 pm')>
+>
+<[293]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 32 pm')>
+>
+<[294]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docoutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 32 pm')>
+>
+<[295]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 32 pm')>
+>
+<[296]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docremovecircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 32 pm')>
+>
+<[297]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 33 pm')>
+>
+<[298]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docrename.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 33 pm')>
+>
+<[299]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docrenamecircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 33 pm')>
+>
+<[300]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docrenamesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 33 pm')>
+>
+<[301]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 34 pm')>
+>
+<[302]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doctext.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 34 pm')>
+>
+<[303]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doctextsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 34 pm')>
+>
+<[304]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docvector.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 34 pm')>
+>
+<[305]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docvectorsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 35 pm')>
+>
+<[306]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docvideo.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 35 pm')>
+>
+<[307]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docvideosolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 35 pm')>
+>
+<[308]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 35 pm')>
+>
+<[309]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docxcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 36 pm')>
+>
+<[310]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docxml.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 36 pm')>
+>
+<[311]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docxmlsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 36 pm')>
+>
+<[312]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\docxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 36 pm')>
+>
+<[313]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doczip.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 36 pm')>
+>
+<[314]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\doczipsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 37 pm')>
+>
+<[315]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\download.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 37 pm')>
+>
+<[316]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\drop.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 37 pm')>
+>
+<[317]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\dropper.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 37 pm')>
+>
+<[318]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\dropperin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 38 pm')>
+>
+<[319]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\dropperout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 38 pm')>
+>
+<[320]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\dropsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 38 pm')>
+>
+<[321]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\edit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 38 pm')>
+>
+<[322]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\editcancel.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 39 pm')>
+>
+<[323]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\editcopy.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 39 pm')>
+>
+<[324]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\editcut.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 39 pm')>
+>
+<[325]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\editduplicate.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 39 pm')>
+>
+<[326]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\editpaste.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 39 pm')>
+>
+<[327]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\eject.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 40 pm')>
+>
+<[328]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ellipsishorizontal.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 40 pm')>
+>
+<[329]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ellipsisvertical.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 40 pm')>
+>
+<[330]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\enter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 40 pm')>
+>
+<[331]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelope.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 41 pm')>
+>
+<[332]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 41 pm')>
+>
+<[333]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 41 pm')>
+>
+<[334]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopein.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 41 pm')>
+>
+<[335]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 42 pm')>
+>
+<[336]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeletter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 42 pm')>
+>
+<[337]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopelettersolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 42 pm')>
+>
+<[338]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeopen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 42 pm')>
+>
+<[339]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeopensolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 42 pm')>
+>
+<[340]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 43 pm')>
+>
+<[341]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopeoutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 43 pm')>
+>
+<[342]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\enveloperemove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 43 pm')>
+>
+<[343]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\enveloperemovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 45 pm')>
+>
+<[344]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\envelopesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 46 pm')>
+>
+<[345]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\eraser.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 46 pm')>
+>
+<[346]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\exclamation.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 46 pm')>
+>
+<[347]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\exclamationcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 46 pm')>
+>
+<[348]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\exclamationcircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 47 pm')>
+>
+<[349]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\exclamationshield.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 47 pm')>
+>
+<[350]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\exclamationtriangle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 47 pm')>
+>
+<[351]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\exit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 47 pm')>
+>
+<[352]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\expand.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 48 pm')>
+>
+<[353]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\expandalt.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 48 pm')>
+>
+<[354]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\export.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 48 pm')>
+>
+<[355]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\eye.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 48 pm')>
+>
+<[356]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\eyeoff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 48 pm')>
+>
+<[357]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 49 pm')>
+>
+<[358]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ffend.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 49 pm')>
+>
+<[359]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ffjump.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 49 pm')>
+>
+<[360]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\filter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 49 pm')>
+>
+<[361]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\filteroff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 50 pm')>
+>
+<[362]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\flag.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 50 pm')>
+>
+<[363]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\flagsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 50 pm')>
+>
+<[364]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\flame.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 50 pm')>
+>
+<[365]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 51 pm')>
+>
+<[366]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 51 pm')>
+>
+<[367]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderaddcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 51 pm')>
+>
+<[368]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 51 pm')>
+>
+<[369]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\foldercheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 51 pm')>
+>
+<[370]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\foldercheckcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 52 pm')>
+>
+<[371]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderchecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 52 pm')>
+>
+<[372]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderedit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 52 pm')>
+>
+<[373]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\foldereditsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 52 pm')>
+>
+<[374]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 53 pm')>
+>
+<[375]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 53 pm')>
+>
+<[376]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderlock.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 53 pm')>
+>
+<[377]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderlockopen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 53 pm')>
+>
+<[378]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderlockopensolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 54 pm')>
+>
+<[379]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderlocksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 54 pm')>
+>
+<[380]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderopen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 54 pm')>
+>
+<[381]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderopensolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 54 pm')>
+>
+<[382]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 55 pm')>
+>
+<[383]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderoutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 55 pm')>
+>
+<[384]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 55 pm')>
+>
+<[385]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderremovecircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 55 pm')>
+>
+<[386]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 56 pm')>
+>
+<[387]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderrename.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 56 pm')>
+>
+<[388]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderrenamecircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 56 pm')>
+>
+<[389]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderrenamesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 56 pm')>
+>
+<[390]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\foldersolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 56 pm')>
+>
+<[391]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 57 pm')>
+>
+<[392]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderxcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 57 pm')>
+>
+<[393]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 57 pm')>
+>
+<[394]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderzip.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 57 pm')>
+>
+<[395]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\folderzipsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 58 pm')>
+>
+<[396]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\fontbold.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 58 pm')>
+>
+<[397]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\fontfamily.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 58 pm')>
+>
+<[398]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\fontitalic.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 58 pm')>
+>
+<[399]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\fontsize.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 59 pm')>
+>
+<[400]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\fontstrike.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 59 pm')>
+>
+<[401]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\fontunderline.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 59 pm')>
+>
+<[402]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\gauge.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 59 pm')>
+>
+<[403]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\gear.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 59 pm')>
+>
+<[404]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\gears.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 60 pm')>
+>
+<[405]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\gift.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 60 pm')>
+>
+<[406]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\giftsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 60 pm')>
+>
+<[407]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\glasses.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 60 pm')>
+>
+<[408]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\glassessolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 61 pm')>
+>
+<[409]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\globe.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 61 pm')>
+>
+<[410]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\globeorbit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 61 pm')>
+>
+<[411]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicblur.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 61 pm')>
+>
+<[412]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicbrightness.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 62 pm')>
+>
+<[413]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicbrightnessdown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 62 pm')>
+>
+<[414]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicbrightnesssmall.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 62 pm')>
+>
+<[415]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicbrightnessup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 62 pm')>
+>
+<[416]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphiccontrast.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 63 pm')>
+>
+<[417]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphiccrop.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 63 pm')>
+>
+<[418]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicmask.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 63 pm')>
+>
+<[419]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicopacity.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 63 pm')>
+>
+<[420]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\graphicsharpen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 64 pm')>
+>
+<[421]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\hammer.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 64 pm')>
+>
+<[422]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\handicap.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 64 pm')>
+>
+<[423]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\headphones.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 64 pm')>
+>
+<[424]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\headset.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 65 pm')>
+>
+<[425]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\heart.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 65 pm')>
+>
+<[426]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\heartbeat.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 65 pm')>
+>
+<[427]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\heartbroken.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 65 pm')>
+>
+<[428]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\heartsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 65 pm')>
+>
+<[429]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\history.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 66 pm')>
+>
+<[430]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\home.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 66 pm')>
+>
+<[431]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\hourglass.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 66 pm')>
+>
+<[432]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\hourglassend.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 66 pm')>
+>
+<[433]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\hourglassstart.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 67 pm')>
+>
+<[434]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\image.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 67 pm')>
+>
+<[435]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\images.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 67 pm')>
+>
+<[436]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\import.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 67 pm')>
+>
+<[437]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\info.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 68 pm')>
+>
+<[438]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\infocircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 68 pm')>
+>
+<[439]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\infocircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 68 pm')>
+>
+<[440]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\inputkeyboard.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 68 pm')>
+>
+<[441]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\inputkeypad.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 69 pm')>
+>
+<[442]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\inputmouse.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 69 pm')>
+>
+<[443]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\inputstylus.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 69 pm')>
+>
+<[444]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\inputtouch.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 69 pm')>
+>
+<[445]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\inputvoice.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 69 pm')>
+>
+<[446]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\key.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 70 pm')>
+>
+<[447]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\keyoff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 70 pm')>
+>
+<[448]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layer.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 70 pm')>
+>
+<[449]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layeradd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 70 pm')>
+>
+<[450]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layerbottom.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 71 pm')>
+>
+<[451]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layerdown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 71 pm')>
+>
+<[452]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layerremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 71 pm')>
+>
+<[453]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layertop.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 72 pm')>
+>
+<[454]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\layerup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 72 pm')>
+>
+<[455]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\leaf.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 72 pm')>
+>
+<[456]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\lightbulb.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 72 pm')>
+>
+<[457]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\lightbulboff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 72 pm')>
+>
+<[458]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\lightning.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 73 pm')>
+>
+<[459]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\lightningsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 73 pm')>
+>
+<[460]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\link.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 73 pm')>
+>
+<[461]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\listbulleted.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 73 pm')>
+>
+<[462]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\listnumbered.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 74 pm')>
+>
+<[463]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\load.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 74 pm')>
+>
+<[464]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\lock.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 74 pm')>
+>
+<[465]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\lockopen.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 74 pm')>
+>
+<[466]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\magglass.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 75 pm')>
+>
+<[467]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\magglassin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 75 pm')>
+>
+<[468]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\magglassout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 75 pm')>
+>
+<[469]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\magglassx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 75 pm')>
+>
+<[470]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\magnet.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 76 pm')>
+>
+<[471]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\map.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 76 pm')>
+>
+<[472]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\maplocation.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 76 pm')>
+>
+<[473]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\mapmarker.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 76 pm')>
+>
+<[474]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\mapmarkers.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 77 pm')>
+>
+<[475]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\mapperson.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 78 pm')>
+>
+<[476]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\maproute.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 78 pm')>
+>
+<[477]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\megaphone.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 78 pm')>
+>
+<[478]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\megaphoneoff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 78 pm')>
+>
+<[479]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\mic.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 79 pm')>
+>
+<[480]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\micoff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 79 pm')>
+>
+<[481]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\na.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 79 pm')>
+>
+<[482]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\note.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 79 pm')>
+>
+<[483]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\noteadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 80 pm')>
+>
+<[484]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\noteaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 80 pm')>
+>
+<[485]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\notecheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 80 pm')>
+>
+<[486]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\notechecksolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 80 pm')>
+>
+<[487]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\noteedit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 81 pm')>
+>
+<[488]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\noteeditsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 81 pm')>
+>
+<[489]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\noteremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 81 pm')>
+>
+<[490]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\noteremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 81 pm')>
+>
+<[491]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\notesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 82 pm')>
+>
+<[492]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\notex.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 82 pm')>
+>
+<[493]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\notexsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 82 pm')>
+>
+<[494]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\offline.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 82 pm')>
+>
+<[495]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\online.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 82 pm')>
+>
+<[496]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\palette.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 83 pm')>
+>
+<[497]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\paperclip.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 83 pm')>
+>
+<[498]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\paperplane.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 83 pm')>
+>
+<[499]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\paperplanesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 83 pm')>
+>
+<[500]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\pause.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 84 pm')>
+>
+<[501]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\penfine.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 84 pm')>
+>
+<[502]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\penfountain.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 84 pm')>
+>
+<[503]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\penmarker.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 84 pm')>
+>
+<[504]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\people.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 85 pm')>
+>
+<[505]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\peoplesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 85 pm')>
+>
+<[506]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\person.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 85 pm')>
+>
+<[507]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personadd.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 85 pm')>
+>
+<[508]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personaddsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 86 pm')>
+>
+<[509]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personedit.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 86 pm')>
+>
+<[510]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personeditsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 86 pm')>
+>
+<[511]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personheart.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 86 pm')>
+>
+<[512]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personheartsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 87 pm')>
+>
+<[513]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personremove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 87 pm')>
+>
+<[514]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personremovesolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 87 pm')>
+>
+<[515]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 87 pm')>
+>
+<[516]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personx.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 88 pm')>
+>
+<[517]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\personxsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 88 pm')>
+>
+<[518]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phone.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 88 pm')>
+>
+<[519]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phonedown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 88 pm')>
+>
+<[520]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phonein.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 89 pm')>
+>
+<[521]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phoneoff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 89 pm')>
+>
+<[522]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phoneout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 89 pm')>
+>
+<[523]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phonering.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 89 pm')>
+>
+<[524]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\phoneringing.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 89 pm')>
+>
+<[525]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\pin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 90 pm')>
+>
+<[526]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\play.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 90 pm')>
+>
+<[527]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\plug.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 90 pm')>
+>
+<[528]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\plugconnect.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 90 pm')>
+>
+<[529]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\plugdisconnect.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 91 pm')>
+>
+<[530]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\podcast.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 91 pm')>
+>
+<[531]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\power.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 91 pm')>
+>
+<[532]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\poweroff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 91 pm')>
+>
+<[533]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\poweron.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 92 pm')>
+>
+<[534]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\powersleep.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 92 pm')>
+>
+<[535]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\powertogglestandby.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 92 pm')>
+>
+<[536]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\question.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 92 pm')>
+>
+<[537]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\questioncircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 92 pm')>
+>
+<[538]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\questioncircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 93 pm')>
+>
+<[539]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\quill.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 93 pm')>
+>
+<[540]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\quote.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 93 pm')>
+>
+<[541]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\record.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 93 pm')>
+>
+<[542]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\recordpause.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 94 pm')>
+>
+<[543]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\redo.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 94 pm')>
+>
+<[544]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\refresh.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 94 pm')>
+>
+<[545]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\remove.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 94 pm')>
+>
+<[546]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\removecircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 95 pm')>
+>
+<[547]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\removecircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 95 pm')>
+>
+<[548]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\removelarge.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 95 pm')>
+>
+<[549]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\removesquare.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 95 pm')>
+>
+<[550]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\removesquareborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 96 pm')>
+>
+<[551]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\repeat.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 96 pm')>
+>
+<[552]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\returnleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 96 pm')>
+>
+<[553]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\returnright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 96 pm')>
+>
+<[554]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ribbon.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 97 pm')>
+>
+<[555]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\rocket.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 97 pm')>
+>
+<[556]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\ruler.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 97 pm')>
+>
+<[557]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\rulersolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 97 pm')>
+>
+<[558]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\rw.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 97 pm')>
+>
+<[559]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\rwjump.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 98 pm')>
+>
+<[560]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\rwstart.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 98 pm')>
+>
+<[561]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\save.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 98 pm')>
+>
+<[562]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\saveall.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 98 pm')>
+>
+<[563]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\saveandenter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 99 pm')>
+>
+<[564]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\saveas.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 99 pm')>
+>
+<[565]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\scale.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 99 pm')>
+>
+<[566]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\scissors.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:38 99 pm')>
+>
+<[567]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\screwdriver.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 00 pm')>
+>
+<[568]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\screwdriverandwrench.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 00 pm')>
+>
+<[569]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\select.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 00 pm')>
+>
+<[570]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectall.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 00 pm')>
+>
+<[571]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectareaellipse.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 01 pm')>
+>
+<[572]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectareafree.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 01 pm')>
+>
+<[573]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectareapolygon.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 01 pm')>
+>
+<[574]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectarearectangle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 01 pm')>
+>
+<[575]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectline.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 01 pm')>
+>
+<[576]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\selectword.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 02 pm')>
+>
+<[577]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\settings.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 02 pm')>
+>
+<[578]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\share.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 02 pm')>
+>
+<[579]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\shield.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 02 pm')>
+>
+<[580]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\shieldslash.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 03 pm')>
+>
+<[581]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\shuffle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 03 pm')>
+>
+<[582]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\signpost.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 03 pm')>
+>
+<[583]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\signpostsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 03 pm')>
+>
+<[584]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\slideshow.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 04 pm')>
+>
+<[585]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\slideshowsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 04 pm')>
+>
+<[586]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sort.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 04 pm')>
+>
+<[587]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sortalphaasc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 04 pm')>
+>
+<[588]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sortalphadesc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 05 pm')>
+>
+<[589]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sortamountasc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 05 pm')>
+>
+<[590]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sortamountdesc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 05 pm')>
+>
+<[591]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sortnumericasc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 05 pm')>
+>
+<[592]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sortnumericdesc.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 06 pm')>
+>
+<[593]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\speaker.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 06 pm')>
+>
+<[594]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\speakermid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 06 pm')>
+>
+<[595]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\speakerminus.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 06 pm')>
+>
+<[596]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\speakeroff.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 07 pm')>
+>
+<[597]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\speakerplus.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 07 pm')>
+>
+<[598]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\spellcheck.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 07 pm')>
+>
+<[599]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\square.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 07 pm')>
+>
+<[600]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\squaresolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 07 pm')>
+>
+<[601]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\squaresolidborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 08 pm')>
+>
+<[602]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\star.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 08 pm')>
+>
+<[603]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\starhalfsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 08 pm')>
+>
+<[604]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\starsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 08 pm')>
+>
+<[605]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\stop.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 09 pm')>
+>
+<[606]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolat.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 09 pm')>
+>
+<[607]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolfemale.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 09 pm')>
+>
+<[608]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolhash.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 09 pm')>
+>
+<[609]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolhazardbio.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 10 pm')>
+>
+<[610]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolhazardnonionizingrad.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 10 pm')>
+>
+<[611]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolhazardrad.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 10 pm')>
+>
+<[612]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolmale.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 10 pm')>
+>
+<[613]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolparagraph.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 11 pm')>
+>
+<[614]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolquote.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 11 pm')>
+>
+<[615]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolrecycle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 11 pm')>
+>
+<[616]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symboltransgender.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 11 pm')>
+>
+<[617]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\symbolunisex.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 12 pm')>
+>
+<[618]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\sync.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 12 pm')>
+>
+<[619]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\synced.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 12 pm')>
+>
+<[620]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\syncerror.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 12 pm')>
+>
+<[621]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tag.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 12 pm')>
+>
+<[622]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tags.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 13 pm')>
+>
+<[623]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tagsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 13 pm')>
+>
+<[624]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tagssolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 13 pm')>
+>
+<[625]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\target.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 13 pm')>
+>
+<[626]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\terminal.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 14 pm')>
+>
+<[627]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\textaligncenter.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 14 pm')>
+>
+<[628]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\textalignjustify.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 14 pm')>
+>
+<[629]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\textalignleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 14 pm')>
+>
+<[630]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\textalignright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 15 pm')>
+>
+<[631]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\textindent.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 15 pm')>
+>
+<[632]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\textoutdent.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 15 pm')>
+>
+<[633]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\thermometer.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 15 pm')>
+>
+<[634]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\thermometerhigh.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 16 pm')>
+>
+<[635]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\thermometerlow.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 16 pm')>
+>
+<[636]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\thermometermed.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 16 pm')>
+>
+<[637]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\thumbsdown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 16 pm')>
+>
+<[638]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\thumbsup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 17 pm')>
+>
+<[639]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\timer.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 17 pm')>
+>
+<[640]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformrotate.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 17 pm')>
+>
+<[641]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformscale.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 17 pm')>
+>
+<[642]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformscalex.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 17 pm')>
+>
+<[643]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformscaley.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 18 pm')>
+>
+<[644]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformshear.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 18 pm')>
+>
+<[645]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformtranslate.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 18 pm')>
+>
+<[646]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformtranslatex.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 18 pm')>
+>
+<[647]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\transformtranslatey.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 19 pm')>
+>
+<[648]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trash.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 19 pm')>
+>
+<[649]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trendingdown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 19 pm')>
+>
+<[650]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trendinglevel.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 19 pm')>
+>
+<[651]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trendingup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 20 pm')>
+>
+<[652]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tridown.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 20 pm')>
+>
+<[653]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tridownleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 20 pm')>
+>
+<[654]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tridownleftsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 20 pm')>
+>
+<[655]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tridownright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 21 pm')>
+>
+<[656]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tridownrightsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 21 pm')>
+>
+<[657]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\tridownsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 21 pm')>
+>
+<[658]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trileft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 21 pm')>
+>
+<[659]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trileftsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 22 pm')>
+>
+<[660]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 22 pm')>
+>
+<[661]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trirightsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 22 pm')>
+>
+<[662]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonaldownin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 22 pm')>
+>
+<[663]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonaldowninsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 23 pm')>
+>
+<[664]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonaldownout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 23 pm')>
+>
+<[665]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonaldownoutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 23 pm')>
+>
+<[666]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 23 pm')>
+>
+<[667]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 23 pm')>
+>
+<[668]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 24 pm')>
+>
+<[669]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonaloutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 24 pm')>
+>
+<[670]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalupin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 24 pm')>
+>
+<[671]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalupinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 24 pm')>
+>
+<[672]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalupout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 25 pm')>
+>
+<[673]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisdiagonalupoutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 25 pm')>
+>
+<[674]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trishorizontalin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 25 pm')>
+>
+<[675]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trishorizontalinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 25 pm')>
+>
+<[676]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trishorizontalout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 26 pm')>
+>
+<[677]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trishorizontaloutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 26 pm')>
+>
+<[678]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 26 pm')>
+>
+<[679]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 26 pm')>
+>
+<[680]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 27 pm')>
+>
+<[681]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisoutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 27 pm')>
+>
+<[682]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisverticalin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 27 pm')>
+>
+<[683]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisverticalinsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 27 pm')>
+>
+<[684]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisverticalout.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 27 pm')>
+>
+<[685]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\trisverticaloutsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 28 pm')>
+>
+<[686]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triup.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 28 pm')>
+>
+<[687]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triupleft.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 28 pm')>
+>
+<[688]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triupleftsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 28 pm')>
+>
+<[689]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triupright.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 29 pm')>
+>
+<[690]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triuprightsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 29 pm')>
+>
+<[691]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\triupsolid.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 29 pm')>
+>
+<[692]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\undo.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 29 pm')>
+>
+<[693]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\unlink.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 30 pm')>
+>
+<[694]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\unpin.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 30 pm')>
+>
+<[695]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\upload.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 30 pm')>
+>
+<[696]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\video.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 30 pm')>
+>
+<[697]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\videoreel.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 31 pm')>
+>
+<[698]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\wand.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 31 pm')>
+>
+<[699]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\weight.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 31 pm')>
+>
+<[700]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\weightkg.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 31 pm')>
+>
+<[701]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\weightlbs.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 32 pm')>
+>
+<[702]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\world.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 32 pm')>
+>
+<[703]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\wrench.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 32 pm')>
+>
+<[704]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\x.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 32 pm')>
+>
+<[705]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\xcircle.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 32 pm')>
+>
+<[706]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\xcircleborder.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 33 pm')>
+>
+<[707]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\xlarge.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 33 pm')>
+>
+<[708]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\icons\xshield.svg}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 33 pm')>
+>
+<[709]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\spinlistback.png}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 33 pm')>
+>
+<[710]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\spinlistbackmask.png}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 34 pm')>
+>
+<[711]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\style.dat}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 34 pm')>
+>
+<[712]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\style.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 34 pm')>
+>
+<[713]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\style.js}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 35 pm')>
+>
+<[714]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\style.sass}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 35 pm')>
+>
+<[715]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\tweaks\blue.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 35 pm')>
+>
+<[716]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\tweaks\coffee.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 35 pm')>
+>
+<[717]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\tweaks\dark.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 36 pm')>
+>
+<[718]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\tweaks\magenta.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 36 pm')>
+>
+<[719]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\tweaks\purple.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 36 pm')>
+>
+<[720]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\css\forest\tweaks\slate.json}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 36 pm')>
+>
+<[721]<type="file">
+<name="{c:\users\administrator\documents\github\bits\bits.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\a5webroot\/bits">
+<timestamp=CTODT('10/24/2017 05:40:39 36 pm')>
+>
+>

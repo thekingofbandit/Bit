@@ -1,0 +1,1151 @@
+{
+    "$schema": "UX",
+    "$definition": {
+        "builderType": "Dialog2",
+        "info": {
+            "createdBy": "Administrator",
+            "dateCreated": "2017-10-11",
+            "dateLastEdited": "2017-10-11"
+        },
+        "minimumBuildNumber": "",
+        "guid": "701bcb75-576c-485c-aa09-051bf143e307",
+        "style_name": "forest",
+        "componentName": "sample_2",
+        "componentFilename": "C:\\Users\\Administrator\\Documents\\GitHub\\Bits\\bits.WebProjects\\Default.WebProject\\sample_2.a5wcmp",
+        "page_fields": [
+            {
+                "controltype": "layout_directive_ContainerBegin",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=6dde2a64-cff4-4b7c-9599-108d61cca929}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayODFlat": "{Data=6dde2a64-cff4-4b7c-9599-108d61cca929}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=6dde2a64-cff4-4b7c-9599-108d61cca929}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=6dde2a64-cff4-4b7c-9599-108d61cca929}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "idInternal": "6dde2a64-cff4-4b7c-9599-108d61cca929",
+                "lastIndex": 3,
+                "parentContainer": -1,
+                "repeatingSectionParentId": -1,
+                "indentTree": 0,
+                "precalc": {
+                    "ControlHTML": "<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_1\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; height: auto; \"  ><!--DIV for Container control-->",
+                    "DesignViewHTML": ""
+                },
+                "crc": "4294958532",
+                "v": {
+                    "container": {
+                        "ID": "CONTAINER_1",
+                        "contentAlignment": "Left",
+                        "width": "50%",
+                        "height": "auto",
+                        "edgeOffset": "",
+                        "buttonGroup": {
+                            "orientation": "Horizontal"
+                        },
+                        "subType": "None",
+                        "allowScrolling": false,
+                        "scrolling": {
+                            "axis": "Both",
+                            "stopPropogation": false,
+                            "isDefined": false,
+                            "indicator": {
+                                "v": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "right",
+                                    "offset": "0px",
+                                    "top": "0px",
+                                    "bottom": "0px"
+                                },
+                                "h": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "top",
+                                    "offset": "0px",
+                                    "left": "0px",
+                                    "right": "0px"
+                                }
+                            }
+                        },
+                        "pull": {
+                            "isDefined": false,
+                            "javascript": {
+                                "onPullRelease": "",
+                                "onPullEnd": "",
+                                "onPull": ""
+                            },
+                            "pullpastEnd": {
+                                "YSetting": "auto",
+                                "XSetting": "auto"
+                            }
+                        }
+                    },
+                    "precalc": {
+                        "javascriptAbstractSetupCode": ""
+                    }
+                }
+            },
+            {
+                "controltype": "dialog_formcontrol",
+                "display": "{B=White,Light Blue}{I:'vertLine'}{Data=31975486-4abd-41ea-a871-c11a159be30c}{I:'$$control.staticHTML'} [viewbox2]",
+                "displayODFlat": "{Data=31975486-4abd-41ea-a871-c11a159be30c}{I:'$$control.staticHTML'} [viewbox2]",
+                "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=31975486-4abd-41ea-a871-c11a159be30c}{I:'$$control.staticHTML'} [viewbox2]",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=31975486-4abd-41ea-a871-c11a159be30c}{I:'$$control.staticHTML'} [viewbox2]",
+                "idInternal": "31975486-4abd-41ea-a871-c11a159be30c",
+                "parentContainer": 1,
+                "inPanelCard": false,
+                "inTreeControl": false,
+                "repeatingSectionParentId": -1,
+                "indentTree": 1,
+                "crc": "4294962959",
+                "v": {
+                    "controlType": "ViewBox",
+                    "variableName": "viewbox2",
+                    "type": "Character",
+                    "maxLength": -1,
+                    "watermark": {
+                        "text": "<FieldLabel>"
+                    },
+                    "textboxSubTheme": "",
+                    "textboxAutocorrect": true,
+                    "textboxAutoCapitalize": true,
+                    "label": "Viewbox2",
+                    "class": "<Default>",
+                    "breakType": "None",
+                    "breakHeight": ".1in",
+                    "breakHorizontalSpace": ".1in",
+                    "labelClass": "<Default>",
+                    "labelPosition": "Above",
+                    "labelWidth": "{Global.LabelWidth}",
+                    "labelAlignment": "Left",
+                    "repeatingSectionColumnHeading": "<FieldLabel>",
+                    "embeddedJavascriptControl": true,
+                    "helpIcon": "images/$$generic.help.png.a5image",
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick",
+                    "clientSideFormat": {
+                        "type": "Mask"
+                    },
+                    "getFunction": "",
+                    "setFunction": "",
+                    "onChange_ValidationOption": "Client-side only",
+                    "dataBinding": {
+                        "updateable": true,
+                        "image": {
+                            "type": "JPG",
+                            "noImageFoundImage": "<None>",
+                            "newRecordImage": "<None>"
+                        },
+                        "ink": {
+                            "hasbackgroundimage": false,
+                            "backgroundimage": "",
+                            "inkunits": 1
+                        }
+                    },
+                    "viewbox": {
+                        "height": "3in",
+                        "width": "4in",
+                        "fillPanelContainer": true,
+                        "definitionJSON": "{\n\t\"formview\": {\n\t\t\"datasource\": {\n\t\t\t\"type\": \"List\",\n\t\t\t\"databasequeryType\": \"SQL query\",\n\t\t\t\"sql\": {\n\t\t\t\t\"selectType\": \"FieldsFromTable\",\n\t\t\t\t\"distinct\": false,\n\t\t\t\t\"portableSQL\": true,\n\t\t\t\t\"first\": -1,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\",\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false\n\t\t\t},\n\t\t\t\"nestedsql\": {\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\"\n\t\t\t}\n\t\t},\n\t\t\"formProperties\": {\n\t\t\t\"hasMultipleLayouts\": false,\n\t\t\t\"autoSelectOnOrientationChange\": false,\n\t\t\t\"multipleSelection\": false,\n\t\t\t\"selectionMode\": \"Default\",\n\t\t\t\"loopNavigate\": false,\n\t\t\t\"loopNavigateNullSelection\": true,\n\t\t\t\"allowNullSelection\": false,\n\t\t\t\"allowNullDeselection\": false,\n\t\t\t\"allowTextSelection\": false,\n\t\t\t\"allowAnimation\": true,\n\t\t\t\"autoRefresh\": false,\n\t\t\t\"allowAnyValue\": false,\n\t\t\t\"captureFocus\": true,\n\t\t\t\"preserveLineBreaksInFreeformTemplates\": false,\n\t\t\t\"container\": {\n\t\t\t\t\"allowScrolling\": false,\n\t\t\t\t\"scrolling\": {\n\t\t\t\t\t\"axis\": \"Both\",\n\t\t\t\t\t\"stopPropogation\": false,\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"indicator\": {\n\t\t\t\t\t\t\"m\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"right\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"top\": \"0px\",\n\t\t\t\t\t\t\t\"bottom\": \"0px\"\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"h\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"top\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"left\": \"0px\",\n\t\t\t\t\t\t\t\"right\": \"0px\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t},\n\t\t\t\t\"pull\": {\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"javascript\": {\n\t\t\t\t\t},\n\t\t\t\t\t\"pullpastEnd\": {\n\t\t\t\t\t\t\"YSetting\": \"auto\",\n\t\t\t\t\t\t\"XSetting\": \"auto\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\t\"javascript\": {\n\t\t\t},\n\t\t\t\"css\": {\n\t\t\t}\n\t\t},\n\t\t\"lowLevelMode\": \"HTML\",\n\t\t\"htmlMode\": \"DefineNow\",\n\t\t\"fields\": [\t\t\n],\n\t\t\"items\": [\t\t\n],\n\t\t\"groups\": [\t\t\n],\n\t\t\"layouts\": [\n\t\t\t{\n\t\t\t\t\"layoutName\": \"Default\",\n\t\t\t\t\"defaultLayout\": false,\n\t\t\t\t\"layoutDataType\": \"Data\",\n\t\t\t\t\"layoutDefinition\": \"<div class=\\\"a-9 a-bg-blue\\\">\\n\\t\\t\\t\\t\\t\\t\\t<!-- Left -->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"a-9-l\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<h3>Basic</h3>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Small Heading -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<h2><span>$</span>99<span>/m</span></h2>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Button -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<a href=\\\"#\\\" class=\\\"a-9-b\\\">Buy Now</a>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<!-- Content -->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"a-9-r\\\">\\t\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Item -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading with data in \\\"span\\\" tag -->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Users<span>1,200</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Visitors<span>1000</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Clients<span>1,500</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Bandwidth<span>1GB</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Storage<span>2GB</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Emails<span>2</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- More items here -->\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\",\n\t\t\t\t\"layoutType\": \"Freeform\",\n\t\t\t\t\"defaultTemplate\": \"\",\n\t\t\t\t\"postProcessJavascript\": \"\",\n\t\t\t\t\"last_layoutGenieFieldSelected_c\": \"\"\n\t\t\t}\t\t\n],\n\t\t\"javascriptLocal\": [\t\t\n]\n\t},\n\t\"_state\": {\n\t\t\"showPane\": {\n\t\t\t\"css\": true,\n\t\t\t\"javascript\": true,\n\t\t\t\"items\": true,\n\t\t\t\"preview\": true\n\t\t},\n\t\t\"tabPage\": \"FormLayout\",\n\t\t\"LayoutSelected_n\": 1,\n\t\t\"fieldSelected_n\": 0,\n\t\t\"cssMode\": 1,\n\t\t\"jsmode\": 1\n\t}\n}",
+                        "class": "",
+                        "style": ""
+                    },
+                    "datePicker": {
+                        "displayTimePicker": false,
+                        "openMethod": "ClickIcon",
+                        "dateFormat": "<Default>",
+                        "iconNumber": 2,
+                        "OKButtonLabel": "OK",
+                        "CancelButtonLabel": "Cancel",
+                        "userMustSelectFromDatePicker": false,
+                        "multiple": {
+                            "allow": false,
+                            "separators": ".."
+                        },
+                        "hasMask": false,
+                        "format": {
+                            "mask": ""
+                        },
+                        "timePickerOptionsDefined": false,
+                        "display": false
+                    },
+                    "displayAsSlider": false,
+                    "precalc": {
+                        "controlHTMLInPanelCard": "in panel card",
+                        "javascript_viewBoxData": "{dialog.object}._viewBoxData['VIEWBOX2'] = [[dialog.viewBoxData.viewbox2]]; ",
+                        "javascript_viewBoxSettings": "{dialog.object}._viewBoxSettings['VIEWBOX2'] = [[dialog.viewBoxSettings.viewbox2]]; ",
+                        "javascript_viewBox": "{dialog.object}._controls['VIEWBOX2'] =  { type: 'viewBox',  data: {dialog.object}._viewBoxData['VIEWBOX2'],  onInitialize: function() { if(this._onInitialize) {this._onInitialize();} },  settings: {dialog.object}._viewBoxSettings['VIEWBOX2'] }",
+                        "javascriptAbstractSetupCode": ""
+                    },
+                    "flags": {
+                        "clientSideDefinition": false
+                    }
+                },
+                "precalc": {
+                    "ControlHTML": "<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX2\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX2\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox2</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX2\" name=\"V.R{grid.rownumber}.VIEWBOX2\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX2.CONTROL\"  class=\"{grid.componentName}_VIEWBOX2\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>",
+                    "DesignViewHTML": "",
+                    "columnInfo": "'VIEWBOX2': {info: {controlType: 'ViewBox'}, hiddenVal: false, type: 'control', isCalc: false, hlp: '', isArray: false, dataType: 'C'  }\n"
+                }
+            },
+            {
+                "controltype": "layout_directive_ContainerEnd",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=1047e969-3b9f-4cf8-be66-f209760d81be}{I:'vertLineCap'} [Container End: CONTAINER_1]",
+                "displayODFlat": "{Data=1047e969-3b9f-4cf8-be66-f209760d81be}{I:'$$format.border.style.dash'} [Container End]",
+                "idInternal": "1047e969-3b9f-4cf8-be66-f209760d81be",
+                "precalc": {
+                    "ControlHTML": "<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n",
+                    "DesignViewHTML": ""
+                },
+                "containerStartIndex": 1,
+                "parentContainer": -1,
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=1047e969-3b9f-4cf8-be66-f209760d81be}{I:'vertLineCap'} [Container End]",
+                "repeatingSectionParentId": -1,
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=1047e969-3b9f-4cf8-be66-f209760d81be}{I:'vertLineCap'} [Container End: CONTAINER_1]",
+                "indentTree": 0,
+                "v": {
+                    "container": {
+                        "BreakType": "None",
+                        "BreakHeight": ".1in",
+                        "breakHorizontalSpace": ".1in"
+                    }
+                },
+                "crc": "4294953417"
+            },
+            {
+                "controltype": "layout_directive_ContainerBegin",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0f2fe9e9_adc0_4723_bb7c_c86ed3f52bed}{I:'$$format.border.style.dash'} [Container: CONTAINER_2]",
+                "displayODFlat": "{Data=0f2fe9e9_adc0_4723_bb7c_c86ed3f52bed}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0f2fe9e9_adc0_4723_bb7c_c86ed3f52bed}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0f2fe9e9_adc0_4723_bb7c_c86ed3f52bed}{I:'$$format.border.style.dash'} [Container: CONTAINER_2]",
+                "idInternal": "0f2fe9e9_adc0_4723_bb7c_c86ed3f52bed",
+                "lastIndex": 6,
+                "parentContainer": -1,
+                "repeatingSectionParentId": -1,
+                "indentTree": 0,
+                "crc": "4294964385",
+                "v": {
+                    "container": {
+                        "ID": "CONTAINER_2",
+                        "contentAlignment": "Left",
+                        "width": "50%",
+                        "height": "auto",
+                        "edgeOffset": "",
+                        "buttonGroup": {
+                            "orientation": "Horizontal"
+                        },
+                        "subType": "None",
+                        "allowScrolling": false,
+                        "scrolling": {
+                            "axis": "Both",
+                            "stopPropogation": false,
+                            "isDefined": false,
+                            "indicator": {
+                                "v": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "right",
+                                    "offset": "0px",
+                                    "top": "0px",
+                                    "bottom": "0px"
+                                },
+                                "h": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "top",
+                                    "offset": "0px",
+                                    "left": "0px",
+                                    "right": "0px"
+                                }
+                            }
+                        },
+                        "pull": {
+                            "isDefined": false,
+                            "javascript": {
+                                "onPullRelease": "",
+                                "onPullEnd": "",
+                                "onPull": ""
+                            },
+                            "pullpastEnd": {
+                                "YSetting": "auto",
+                                "XSetting": "auto"
+                            }
+                        }
+                    },
+                    "precalc": {
+                        "javascriptAbstractSetupCode": ""
+                    }
+                },
+                "precalc": {
+                    "ControlHTML": "<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_2\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; height: auto; \"  ><!--DIV for Container control-->",
+                    "DesignViewHTML": ""
+                }
+            },
+            {
+                "controltype": "dialog_formcontrol",
+                "display": "{B=White,Light Blue}{I:'vertLine'}{Data=c63c6731-3d4e-4378-9019-73aaca8b4c91}{I:'$$control.staticHTML'} [viewbox3]",
+                "displayODFlat": "{Data=c63c6731-3d4e-4378-9019-73aaca8b4c91}{I:'$$control.staticHTML'} [viewbox3]",
+                "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=c63c6731-3d4e-4378-9019-73aaca8b4c91}{I:'$$control.staticHTML'} [viewbox3]",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=c63c6731-3d4e-4378-9019-73aaca8b4c91}{I:'$$control.staticHTML'} [viewbox3]",
+                "idInternal": "c63c6731-3d4e-4378-9019-73aaca8b4c91",
+                "parentContainer": 4,
+                "inPanelCard": false,
+                "inTreeControl": false,
+                "repeatingSectionParentId": -1,
+                "indentTree": 1,
+                "crc": "4294936384",
+                "v": {
+                    "controlType": "ViewBox",
+                    "variableName": "viewbox3",
+                    "type": "Character",
+                    "maxLength": -1,
+                    "watermark": {
+                        "text": "<FieldLabel>"
+                    },
+                    "textboxSubTheme": "",
+                    "textboxAutocorrect": true,
+                    "textboxAutoCapitalize": true,
+                    "label": "Viewbox3",
+                    "class": "<Default>",
+                    "breakType": "None",
+                    "breakHeight": ".1in",
+                    "breakHorizontalSpace": ".1in",
+                    "labelClass": "<Default>",
+                    "labelPosition": "Above",
+                    "labelWidth": "{Global.LabelWidth}",
+                    "labelAlignment": "Left",
+                    "repeatingSectionColumnHeading": "<FieldLabel>",
+                    "embeddedJavascriptControl": true,
+                    "helpIcon": "images/$$generic.help.png.a5image",
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick",
+                    "clientSideFormat": {
+                        "type": "Mask"
+                    },
+                    "getFunction": "",
+                    "setFunction": "",
+                    "onChange_ValidationOption": "Client-side only",
+                    "dataBinding": {
+                        "updateable": true,
+                        "image": {
+                            "type": "JPG",
+                            "noImageFoundImage": "<None>",
+                            "newRecordImage": "<None>"
+                        },
+                        "ink": {
+                            "hasbackgroundimage": false,
+                            "backgroundimage": "",
+                            "inkunits": 1
+                        }
+                    },
+                    "viewbox": {
+                        "height": "3in",
+                        "width": "4in",
+                        "fillPanelContainer": true,
+                        "definitionJSON": "{\n\t\"formview\": {\n\t\t\"datasource\": {\n\t\t\t\"type\": \"List\",\n\t\t\t\"databasequeryType\": \"SQL query\",\n\t\t\t\"sql\": {\n\t\t\t\t\"selectType\": \"FieldsFromTable\",\n\t\t\t\t\"distinct\": false,\n\t\t\t\t\"portableSQL\": true,\n\t\t\t\t\"first\": -1,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\",\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false\n\t\t\t},\n\t\t\t\"nestedsql\": {\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\"\n\t\t\t}\n\t\t},\n\t\t\"formProperties\": {\n\t\t\t\"hasMultipleLayouts\": false,\n\t\t\t\"autoSelectOnOrientationChange\": false,\n\t\t\t\"multipleSelection\": false,\n\t\t\t\"selectionMode\": \"Default\",\n\t\t\t\"loopNavigate\": false,\n\t\t\t\"loopNavigateNullSelection\": true,\n\t\t\t\"allowNullSelection\": false,\n\t\t\t\"allowNullDeselection\": false,\n\t\t\t\"allowTextSelection\": false,\n\t\t\t\"allowAnimation\": true,\n\t\t\t\"autoRefresh\": false,\n\t\t\t\"allowAnyValue\": false,\n\t\t\t\"captureFocus\": true,\n\t\t\t\"preserveLineBreaksInFreeformTemplates\": false,\n\t\t\t\"container\": {\n\t\t\t\t\"allowScrolling\": false,\n\t\t\t\t\"scrolling\": {\n\t\t\t\t\t\"axis\": \"Both\",\n\t\t\t\t\t\"stopPropogation\": false,\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"indicator\": {\n\t\t\t\t\t\t\"m\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"right\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"top\": \"0px\",\n\t\t\t\t\t\t\t\"bottom\": \"0px\"\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"h\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"top\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"left\": \"0px\",\n\t\t\t\t\t\t\t\"right\": \"0px\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t},\n\t\t\t\t\"pull\": {\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"javascript\": {\n\t\t\t\t\t},\n\t\t\t\t\t\"pullpastEnd\": {\n\t\t\t\t\t\t\"YSetting\": \"auto\",\n\t\t\t\t\t\t\"XSetting\": \"auto\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\t\"javascript\": {\n\t\t\t},\n\t\t\t\"css\": {\n\t\t\t}\n\t\t},\n\t\t\"lowLevelMode\": \"HTML\",\n\t\t\"htmlMode\": \"DefineNow\",\n\t\t\"fields\": [\t\t\n],\n\t\t\"items\": [\t\t\n],\n\t\t\"groups\": [\t\t\n],\n\t\t\"layouts\": [\n\t\t\t{\n\t\t\t\t\"layoutName\": \"Default\",\n\t\t\t\t\"defaultLayout\": false,\n\t\t\t\t\"layoutDataType\": \"Data\",\n\t\t\t\t\"layoutDefinition\": \"<div class=\\\"a-9 a-bg-blue\\\">\\n\\t\\t\\t\\t\\t\\t\\t<!-- Left -->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"a-9-l\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<h3>Basic</h3>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Small Heading -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<h2><span>$</span>99<span>/m</span></h2>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Button -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<a href=\\\"#\\\" class=\\\"a-9-b\\\">Buy Now</a>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<!-- Content -->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"a-9-r\\\">\\t\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Item -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading with data in \\\"span\\\" tag -->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Users<span>1,200</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Visitors<span>1000</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Clients<span>1,500</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Bandwidth<span>1GB</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Storage<span>2GB</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Emails<span>2</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- More items here -->\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\",\n\t\t\t\t\"layoutType\": \"Freeform\"\n\t\t\t}\t\t\n],\n\t\t\"javascriptLocal\": [\t\t\n]\n\t},\n\t\"_state\": {\n\t\t\"showPane\": {\n\t\t\t\"css\": true,\n\t\t\t\"javascript\": true,\n\t\t\t\"items\": true,\n\t\t\t\"preview\": true\n\t\t},\n\t\t\"tabPage\": \"FormLayout\",\n\t\t\"LayoutSelected_n\": 1,\n\t\t\"fieldSelected_n\": 0,\n\t\t\"cssMode\": 1,\n\t\t\"jsmode\": 1\n\t}\n}",
+                        "class": "",
+                        "style": ""
+                    },
+                    "datePicker": {
+                        "displayTimePicker": false,
+                        "openMethod": "ClickIcon",
+                        "dateFormat": "<Default>",
+                        "iconNumber": 2,
+                        "OKButtonLabel": "OK",
+                        "CancelButtonLabel": "Cancel",
+                        "userMustSelectFromDatePicker": false,
+                        "multiple": {
+                            "allow": false,
+                            "separators": ".."
+                        },
+                        "hasMask": false,
+                        "format": {
+                            "mask": ""
+                        },
+                        "timePickerOptionsDefined": false,
+                        "display": false
+                    },
+                    "displayAsSlider": false,
+                    "precalc": {
+                        "controlHTMLInPanelCard": "in panel card",
+                        "javascript_viewBoxData": "{dialog.object}._viewBoxData['VIEWBOX3'] = [[dialog.viewBoxData.viewbox3]]; ",
+                        "javascript_viewBoxSettings": "{dialog.object}._viewBoxSettings['VIEWBOX3'] = [[dialog.viewBoxSettings.viewbox3]]; ",
+                        "javascript_viewBox": "{dialog.object}._controls['VIEWBOX3'] =  { type: 'viewBox',  data: {dialog.object}._viewBoxData['VIEWBOX3'],  onInitialize: function() { if(this._onInitialize) {this._onInitialize();} },  settings: {dialog.object}._viewBoxSettings['VIEWBOX3'] }",
+                        "javascriptAbstractSetupCode": ""
+                    },
+                    "flags": {
+                        "clientSideDefinition": false
+                    }
+                },
+                "precalc": {
+                    "ControlHTML": "<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX3\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX3\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox3</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX3\" name=\"V.R{grid.rownumber}.VIEWBOX3\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX3.CONTROL\"  class=\"{grid.componentName}_VIEWBOX3\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>",
+                    "DesignViewHTML": "",
+                    "columnInfo": "'VIEWBOX3': {info: {controlType: 'ViewBox'}, hiddenVal: false, type: 'control', isCalc: false, hlp: '', isArray: false, dataType: 'C'  }\n"
+                }
+            },
+            {
+                "controltype": "layout_directive_ContainerEnd",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=c2ee4261_931b_4425_957e_6ad58d629bd4}{I:'vertLineCap'} [Container End: CONTAINER_2]",
+                "displayODFlat": "{Data=c2ee4261_931b_4425_957e_6ad58d629bd4}{I:'$$format.border.style.dash'} [Container End]",
+                "idInternal": "c2ee4261_931b_4425_957e_6ad58d629bd4",
+                "containerStartIndex": 4,
+                "parentContainer": -1,
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=c2ee4261_931b_4425_957e_6ad58d629bd4}{I:'vertLineCap'} [Container End]",
+                "repeatingSectionParentId": -1,
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=c2ee4261_931b_4425_957e_6ad58d629bd4}{I:'vertLineCap'} [Container End: CONTAINER_2]",
+                "indentTree": 0,
+                "precalc": {
+                    "ControlHTML": "<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n",
+                    "DesignViewHTML": ""
+                },
+                "crc": "4294905198",
+                "v": {
+                    "container": {
+                        "BreakType": "None",
+                        "BreakHeight": ".1in",
+                        "breakHorizontalSpace": ".1in"
+                    }
+                }
+            },
+            {
+                "controltype": "layout_directive_ContainerBegin",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=7e4d4313_7351_4a43_87d4_2128d34cf58b}{I:'$$format.border.style.dash'} [Container: CONTAINER_3]",
+                "displayODFlat": "{Data=7e4d4313_7351_4a43_87d4_2128d34cf58b}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=7e4d4313_7351_4a43_87d4_2128d34cf58b}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=7e4d4313_7351_4a43_87d4_2128d34cf58b}{I:'$$format.border.style.dash'} [Container: CONTAINER_3]",
+                "idInternal": "7e4d4313_7351_4a43_87d4_2128d34cf58b",
+                "lastIndex": 9,
+                "parentContainer": -1,
+                "repeatingSectionParentId": -1,
+                "indentTree": 0,
+                "crc": "4294965917",
+                "precalc": {
+                    "ControlHTML": "<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_3\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; \"  ><!--DIV for Container control-->",
+                    "DesignViewHTML": ""
+                },
+                "v": {
+                    "container": {
+                        "ID": "CONTAINER_3",
+                        "contentAlignment": "Left",
+                        "width": "50%",
+                        "edgeOffset": "",
+                        "buttonGroup": {
+                            "orientation": "Horizontal"
+                        },
+                        "subType": "None",
+                        "allowScrolling": false,
+                        "scrolling": {
+                            "axis": "Both",
+                            "stopPropogation": false,
+                            "isDefined": false,
+                            "indicator": {
+                                "v": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "right",
+                                    "offset": "0px",
+                                    "top": "0px",
+                                    "bottom": "0px"
+                                },
+                                "h": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "top",
+                                    "offset": "0px",
+                                    "left": "0px",
+                                    "right": "0px"
+                                }
+                            }
+                        },
+                        "pull": {
+                            "isDefined": false,
+                            "javascript": {
+                                "onPullRelease": "",
+                                "onPullEnd": "",
+                                "onPull": ""
+                            },
+                            "pullpastEnd": {
+                                "YSetting": "auto",
+                                "XSetting": "auto"
+                            }
+                        }
+                    },
+                    "precalc": {
+                        "javascriptAbstractSetupCode": ""
+                    }
+                }
+            },
+            {
+                "controltype": "dialog_formcontrol",
+                "display": "{B=White,Light Blue}{I:'vertLine'}{Data=52e4c041_441b_4a6e_8cd7_c17bae1d4508}{I:'$$control.staticHTML'} [viewbox4]",
+                "displayODFlat": "{Data=52e4c041_441b_4a6e_8cd7_c17bae1d4508}{I:'$$control.staticHTML'} [viewbox4]",
+                "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=52e4c041_441b_4a6e_8cd7_c17bae1d4508}{I:'$$control.staticHTML'} [viewbox4]",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=52e4c041_441b_4a6e_8cd7_c17bae1d4508}{I:'$$control.staticHTML'} [viewbox4]",
+                "idInternal": "52e4c041_441b_4a6e_8cd7_c17bae1d4508",
+                "parentContainer": 7,
+                "inPanelCard": false,
+                "inTreeControl": false,
+                "repeatingSectionParentId": -1,
+                "indentTree": 1,
+                "crc": "4294915569",
+                "v": {
+                    "controlType": "ViewBox",
+                    "variableName": "viewbox4",
+                    "type": "Character",
+                    "maxLength": -1,
+                    "watermark": {
+                        "text": "<FieldLabel>"
+                    },
+                    "textboxSubTheme": "",
+                    "textboxAutocorrect": true,
+                    "textboxAutoCapitalize": true,
+                    "label": "Viewbox1",
+                    "class": "<Default>",
+                    "breakType": "None",
+                    "breakHeight": ".1in",
+                    "breakHorizontalSpace": ".1in",
+                    "labelClass": "<Default>",
+                    "labelPosition": "Above",
+                    "labelWidth": "{Global.LabelWidth}",
+                    "labelAlignment": "Left",
+                    "repeatingSectionColumnHeading": "<FieldLabel>",
+                    "embeddedJavascriptControl": true,
+                    "helpIcon": "images/$$generic.help.png.a5image",
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick",
+                    "clientSideFormat": {
+                        "type": "Mask"
+                    },
+                    "getFunction": "",
+                    "setFunction": "",
+                    "onChange_ValidationOption": "Client-side only",
+                    "dataBinding": {
+                        "updateable": true,
+                        "image": {
+                            "type": "JPG",
+                            "noImageFoundImage": "<None>",
+                            "newRecordImage": "<None>"
+                        },
+                        "ink": {
+                            "hasbackgroundimage": false,
+                            "backgroundimage": "",
+                            "inkunits": 1
+                        }
+                    },
+                    "viewbox": {
+                        "height": "3in",
+                        "width": "4in",
+                        "fillPanelContainer": true,
+                        "definitionJSON": "{\n\t\"formview\": {\n\t\t\"datasource\": {\n\t\t\t\"type\": \"List\",\n\t\t\t\"databasequeryType\": \"SQL query\",\n\t\t\t\"sql\": {\n\t\t\t\t\"selectType\": \"FieldsFromTable\",\n\t\t\t\t\"distinct\": false,\n\t\t\t\t\"portableSQL\": true,\n\t\t\t\t\"first\": -1,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\",\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false\n\t\t\t},\n\t\t\t\"nestedsql\": {\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\"\n\t\t\t}\n\t\t},\n\t\t\"formProperties\": {\n\t\t\t\"hasMultipleLayouts\": false,\n\t\t\t\"autoSelectOnOrientationChange\": false,\n\t\t\t\"multipleSelection\": false,\n\t\t\t\"selectionMode\": \"Default\",\n\t\t\t\"loopNavigate\": false,\n\t\t\t\"loopNavigateNullSelection\": true,\n\t\t\t\"allowNullSelection\": false,\n\t\t\t\"allowNullDeselection\": false,\n\t\t\t\"allowTextSelection\": false,\n\t\t\t\"allowAnimation\": true,\n\t\t\t\"autoRefresh\": false,\n\t\t\t\"allowAnyValue\": false,\n\t\t\t\"captureFocus\": true,\n\t\t\t\"preserveLineBreaksInFreeformTemplates\": false,\n\t\t\t\"container\": {\n\t\t\t\t\"allowScrolling\": false,\n\t\t\t\t\"scrolling\": {\n\t\t\t\t\t\"axis\": \"Both\",\n\t\t\t\t\t\"stopPropogation\": false,\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"indicator\": {\n\t\t\t\t\t\t\"m\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"right\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"top\": \"0px\",\n\t\t\t\t\t\t\t\"bottom\": \"0px\"\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"h\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"top\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"left\": \"0px\",\n\t\t\t\t\t\t\t\"right\": \"0px\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t},\n\t\t\t\t\"pull\": {\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"javascript\": {\n\t\t\t\t\t},\n\t\t\t\t\t\"pullpastEnd\": {\n\t\t\t\t\t\t\"YSetting\": \"auto\",\n\t\t\t\t\t\t\"XSetting\": \"auto\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\t\"javascript\": {\n\t\t\t},\n\t\t\t\"css\": {\n\t\t\t}\n\t\t},\n\t\t\"lowLevelMode\": \"HTML\",\n\t\t\"htmlMode\": \"DefineNow\",\n\t\t\"fields\": [\t\t\n],\n\t\t\"items\": [\t\t\n],\n\t\t\"groups\": [\t\t\n],\n\t\t\"layouts\": [\n\t\t\t{\n\t\t\t\t\"layoutName\": \"Default\",\n\t\t\t\t\"defaultLayout\": false,\n\t\t\t\t\"layoutDataType\": \"Data\",\n\t\t\t\t\"layoutDefinition\": \"<div class=\\\"imagemk\\\">\\n\\n\\t\\t      \\n\\n\\t\\t      <h2mk><spanmk>Breaking News:<spanmk class=\\\"spacer\\\">&nbsp;</spanmk><br><spanmk class=\\\"spacer\\\">&nbsp;</spanmk>Hippies Love America!</spanmk></h2mk>\\n\\n\\t\\t</div>\",\n\t\t\t\t\"layoutType\": \"Freeform\",\n\t\t\t\t\"defaultTemplate\": \"\",\n\t\t\t\t\"postProcessJavascript\": \"\",\n\t\t\t\t\"last_layoutGenieFieldSelected_c\": \"\"\n\t\t\t}\t\t\n],\n\t\t\"javascriptLocal\": [\t\t\n],\n\t\t\"css\": \"\\ndiv.wrapper{\\n\\tfloat:left; /* important */\\n\\tposition:relative; /* important(so we can absolutely position the description div */\\n}\\ndiv.description{\\n\\tposition:absolute; /* absolute position (so we can position it where we want)*/\\n\\tbottom:0px; /* position will be on bottom */\\n\\tleft:0px;\\n\\twidth:100%;\\n\\t/* styling bellow */\\n\\tbackground-color:black;\\n\\tcolor:white;\\n\\topacity:0.6; /* transparency */\\n\\tfilter:alpha(opacity=60); /* IE transparency */\\n}\\np.description_content{\\n\\tpadding:10px;\\n\\tmargin:0px;\\n\\tfont-size: 30px;\\n}\\n\"\n\t},\n\t\"_state\": {\n\t\t\"showPane\": {\n\t\t\t\"css\": true,\n\t\t\t\"javascript\": true,\n\t\t\t\"items\": true,\n\t\t\t\"preview\": true\n\t\t},\n\t\t\"tabPage\": \"CSS\",\n\t\t\"LayoutSelected_n\": 1,\n\t\t\"fieldSelected_n\": 0,\n\t\t\"cssMode\": 2,\n\t\t\"jsmode\": 1\n\t}\n}",
+                        "class": "",
+                        "style": ""
+                    },
+                    "datePicker": {
+                        "displayTimePicker": false,
+                        "openMethod": "ClickIcon",
+                        "dateFormat": "<Default>",
+                        "iconNumber": 2,
+                        "OKButtonLabel": "OK",
+                        "CancelButtonLabel": "Cancel",
+                        "userMustSelectFromDatePicker": false,
+                        "multiple": {
+                            "allow": false,
+                            "separators": ".."
+                        },
+                        "hasMask": false,
+                        "format": {
+                            "mask": ""
+                        },
+                        "timePickerOptionsDefined": false,
+                        "display": false
+                    },
+                    "displayAsSlider": false,
+                    "precalc": {
+                        "controlHTMLInPanelCard": "in panel card",
+                        "javascript_viewBoxData": "{dialog.object}._viewBoxData['VIEWBOX4'] = [[dialog.viewBoxData.viewbox4]]; ",
+                        "javascript_viewBoxSettings": "{dialog.object}._viewBoxSettings['VIEWBOX4'] = [[dialog.viewBoxSettings.viewbox4]]; ",
+                        "javascript_viewBox": "{dialog.object}._controls['VIEWBOX4'] =  { type: 'viewBox',  data: {dialog.object}._viewBoxData['VIEWBOX4'],  onInitialize: function() { if(this._onInitialize) {this._onInitialize();} },  settings: {dialog.object}._viewBoxSettings['VIEWBOX4'] }",
+                        "javascriptAbstractSetupCode": ""
+                    },
+                    "flags": {
+                        "clientSideDefinition": false
+                    }
+                },
+                "precalc": {
+                    "ControlHTML": "<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX4\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX4\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox1</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX4\" name=\"V.R{grid.rownumber}.VIEWBOX4\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX4.CONTROL\"  class=\"{grid.componentName}_VIEWBOX4\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>",
+                    "DesignViewHTML": "",
+                    "columnInfo": "'VIEWBOX4': {info: {controlType: 'ViewBox'}, hiddenVal: false, type: 'control', isCalc: false, hlp: '', isArray: false, dataType: 'C'  }\n"
+                }
+            },
+            {
+                "controltype": "layout_directive_ContainerEnd",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=69a37b30_2abd_4122_8a1f_b42038cf0dcb}{I:'vertLineCap'} [Container End: CONTAINER_3]",
+                "displayODFlat": "{Data=69a37b30_2abd_4122_8a1f_b42038cf0dcb}{I:'$$format.border.style.dash'} [Container End]",
+                "idInternal": "69a37b30_2abd_4122_8a1f_b42038cf0dcb",
+                "containerStartIndex": 7,
+                "parentContainer": -1,
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=69a37b30_2abd_4122_8a1f_b42038cf0dcb}{I:'vertLineCap'} [Container End]",
+                "repeatingSectionParentId": -1,
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=69a37b30_2abd_4122_8a1f_b42038cf0dcb}{I:'vertLineCap'} [Container End: CONTAINER_3]",
+                "indentTree": 0,
+                "precalc": {
+                    "ControlHTML": "<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n",
+                    "DesignViewHTML": ""
+                },
+                "crc": "4294950744",
+                "v": {
+                    "container": {
+                        "BreakType": "None",
+                        "BreakHeight": ".1in",
+                        "breakHorizontalSpace": ".1in"
+                    }
+                }
+            },
+            {
+                "controltype": "layout_directive_ContainerBegin",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=ac56f846_ad82_4ec1_8362_e7fd7ec78c8a}{I:'$$format.border.style.dash'} [Container: CONTAINER_4]",
+                "displayODFlat": "{Data=ac56f846_ad82_4ec1_8362_e7fd7ec78c8a}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=ac56f846_ad82_4ec1_8362_e7fd7ec78c8a}{I:'$$format.border.style.dash'} [Container: CONTAINER_1]",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=ac56f846_ad82_4ec1_8362_e7fd7ec78c8a}{I:'$$format.border.style.dash'} [Container: CONTAINER_4]",
+                "idInternal": "ac56f846_ad82_4ec1_8362_e7fd7ec78c8a",
+                "lastIndex": 12,
+                "parentContainer": -1,
+                "repeatingSectionParentId": -1,
+                "indentTree": 0,
+                "crc": "4294948032",
+                "v": {
+                    "container": {
+                        "ID": "CONTAINER_4",
+                        "contentAlignment": "Left",
+                        "width": "50%",
+                        "height": "auto",
+                        "edgeOffset": "",
+                        "buttonGroup": {
+                            "orientation": "Horizontal"
+                        },
+                        "subType": "None",
+                        "allowScrolling": false,
+                        "scrolling": {
+                            "axis": "Both",
+                            "stopPropogation": false,
+                            "isDefined": false,
+                            "indicator": {
+                                "v": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "right",
+                                    "offset": "0px",
+                                    "top": "0px",
+                                    "bottom": "0px"
+                                },
+                                "h": {
+                                    "show": true,
+                                    "className": "",
+                                    "barClassName": "",
+                                    "location": "top",
+                                    "offset": "0px",
+                                    "left": "0px",
+                                    "right": "0px"
+                                }
+                            }
+                        },
+                        "pull": {
+                            "isDefined": false,
+                            "javascript": {
+                                "onPullRelease": "",
+                                "onPullEnd": "",
+                                "onPull": ""
+                            },
+                            "pullpastEnd": {
+                                "YSetting": "auto",
+                                "XSetting": "auto"
+                            }
+                        }
+                    },
+                    "precalc": {
+                        "javascriptAbstractSetupCode": ""
+                    }
+                },
+                "precalc": {
+                    "ControlHTML": "<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_4\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; height: auto; \"  ><!--DIV for Container control-->",
+                    "DesignViewHTML": ""
+                }
+            },
+            {
+                "controltype": "dialog_formcontrol",
+                "display": "{B=White,Light Blue}{I:'vertLine'}{Data=cf6de2cb-a008-455d-ab91-37a04c9be90c}{I:'$$control.staticHTML'} [viewbox5]",
+                "displayODFlat": "{Data=cf6de2cb-a008-455d-ab91-37a04c9be90c}{I:'$$control.staticHTML'} [viewbox5]",
+                "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=cf6de2cb-a008-455d-ab91-37a04c9be90c}{I:'$$control.staticHTML'} [viewbox5]",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=cf6de2cb-a008-455d-ab91-37a04c9be90c}{I:'$$control.staticHTML'} [viewbox5]",
+                "idInternal": "cf6de2cb-a008-455d-ab91-37a04c9be90c",
+                "parentContainer": 10,
+                "inPanelCard": false,
+                "inTreeControl": false,
+                "repeatingSectionParentId": -1,
+                "indentTree": 1,
+                "crc": "4294920109",
+                "v": {
+                    "controlType": "ViewBox",
+                    "variableName": "viewbox5",
+                    "type": "Character",
+                    "maxLength": -1,
+                    "watermark": {
+                        "text": "<FieldLabel>"
+                    },
+                    "textboxSubTheme": "",
+                    "textboxAutocorrect": true,
+                    "textboxAutoCapitalize": true,
+                    "label": "Viewbox5",
+                    "class": "<Default>",
+                    "breakType": "None",
+                    "breakHeight": ".1in",
+                    "breakHorizontalSpace": ".1in",
+                    "labelClass": "<Default>",
+                    "labelPosition": "Above",
+                    "labelWidth": "{Global.LabelWidth}",
+                    "labelAlignment": "Left",
+                    "repeatingSectionColumnHeading": "<FieldLabel>",
+                    "embeddedJavascriptControl": true,
+                    "helpIcon": "images/$$generic.help.png.a5image",
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick",
+                    "clientSideFormat": {
+                        "type": "Mask"
+                    },
+                    "getFunction": "",
+                    "setFunction": "",
+                    "onChange_ValidationOption": "Client-side only",
+                    "dataBinding": {
+                        "updateable": true,
+                        "image": {
+                            "type": "JPG",
+                            "noImageFoundImage": "<None>",
+                            "newRecordImage": "<None>"
+                        },
+                        "ink": {
+                            "hasbackgroundimage": false,
+                            "backgroundimage": "",
+                            "inkunits": 1
+                        }
+                    },
+                    "viewbox": {
+                        "height": "3in",
+                        "width": "4in",
+                        "fillPanelContainer": true,
+                        "definitionJSON": "{\n\t\"formview\": {\n\t\t\"datasource\": {\n\t\t\t\"type\": \"List\",\n\t\t\t\"databasequeryType\": \"SQL query\",\n\t\t\t\"sql\": {\n\t\t\t\t\"selectType\": \"FieldsFromTable\",\n\t\t\t\t\"distinct\": false,\n\t\t\t\t\"portableSQL\": true,\n\t\t\t\t\"first\": -1,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\",\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false\n\t\t\t},\n\t\t\t\"nestedsql\": {\n\t\t\t\t\"delayRenderTillVisible\": false,\n\t\t\t\t\"delayRenderTillRefresh\": false,\n\t\t\t\t\"dataReturnType\": \"PrimaryKey\"\n\t\t\t}\n\t\t},\n\t\t\"formProperties\": {\n\t\t\t\"hasMultipleLayouts\": false,\n\t\t\t\"autoSelectOnOrientationChange\": false,\n\t\t\t\"multipleSelection\": false,\n\t\t\t\"selectionMode\": \"Default\",\n\t\t\t\"loopNavigate\": false,\n\t\t\t\"loopNavigateNullSelection\": true,\n\t\t\t\"allowNullSelection\": false,\n\t\t\t\"allowNullDeselection\": false,\n\t\t\t\"allowTextSelection\": false,\n\t\t\t\"allowAnimation\": true,\n\t\t\t\"autoRefresh\": false,\n\t\t\t\"allowAnyValue\": false,\n\t\t\t\"captureFocus\": true,\n\t\t\t\"preserveLineBreaksInFreeformTemplates\": false,\n\t\t\t\"container\": {\n\t\t\t\t\"allowScrolling\": false,\n\t\t\t\t\"scrolling\": {\n\t\t\t\t\t\"axis\": \"Both\",\n\t\t\t\t\t\"stopPropogation\": false,\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"indicator\": {\n\t\t\t\t\t\t\"m\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"right\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"top\": \"0px\",\n\t\t\t\t\t\t\t\"bottom\": \"0px\"\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"h\": {\n\t\t\t\t\t\t\t\"show\": true,\n\t\t\t\t\t\t\t\"location\": \"top\",\n\t\t\t\t\t\t\t\"offset\": \"0px\",\n\t\t\t\t\t\t\t\"left\": \"0px\",\n\t\t\t\t\t\t\t\"right\": \"0px\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t},\n\t\t\t\t\"pull\": {\n\t\t\t\t\t\"isDefined\": false,\n\t\t\t\t\t\"javascript\": {\n\t\t\t\t\t},\n\t\t\t\t\t\"pullpastEnd\": {\n\t\t\t\t\t\t\"YSetting\": \"auto\",\n\t\t\t\t\t\t\"XSetting\": \"auto\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\t\"javascript\": {\n\t\t\t},\n\t\t\t\"css\": {\n\t\t\t}\n\t\t},\n\t\t\"lowLevelMode\": \"HTML\",\n\t\t\"htmlMode\": \"DefineNow\",\n\t\t\"fields\": [\t\t\n],\n\t\t\"items\": [\t\t\n],\n\t\t\"groups\": [\t\t\n],\n\t\t\"layouts\": [\n\t\t\t{\n\t\t\t\t\"layoutName\": \"Default\",\n\t\t\t\t\"defaultLayout\": false,\n\t\t\t\t\"layoutDataType\": \"Data\",\n\t\t\t\t\"layoutDefinition\": \"<div class=\\\"a-9 a-bg-blue\\\">\\n\\t\\t\\t\\t\\t\\t\\t<!-- Left -->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"a-9-l\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<h3>Basic</h3>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Small Heading -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<h2><span>$</span>99<span>/m</span></h2>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Button -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<a href=\\\"#\\\" class=\\\"a-9-b\\\">Buy Now</a>\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t<!-- Content -->\\n\\t\\t\\t\\t\\t\\t\\t<div class=\\\"a-9-r\\\">\\t\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- Item -->\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading with data in \\\"span\\\" tag -->\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Users<span>1,200</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Visitors<span>1000</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Clients<span>1,500</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Bandwidth<span>1GB</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Storage<span>2GB</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<div>\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Emails<span>2</span></h4>\\n\\t\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\t\\t<!-- More items here -->\\n\\t\\t\\t\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t</div>\",\n\t\t\t\t\"layoutType\": \"Freeform\"\n\t\t\t}\t\t\n],\n\t\t\"javascriptLocal\": [\t\t\n]\n\t},\n\t\"_state\": {\n\t\t\"showPane\": {\n\t\t\t\"css\": true,\n\t\t\t\"javascript\": true,\n\t\t\t\"items\": true,\n\t\t\t\"preview\": true\n\t\t},\n\t\t\"tabPage\": \"FormLayout\",\n\t\t\"LayoutSelected_n\": 1,\n\t\t\"fieldSelected_n\": 0,\n\t\t\"cssMode\": 1,\n\t\t\"jsmode\": 1\n\t}\n}",
+                        "class": "",
+                        "style": ""
+                    },
+                    "datePicker": {
+                        "displayTimePicker": false,
+                        "openMethod": "ClickIcon",
+                        "dateFormat": "<Default>",
+                        "iconNumber": 2,
+                        "OKButtonLabel": "OK",
+                        "CancelButtonLabel": "Cancel",
+                        "userMustSelectFromDatePicker": false,
+                        "multiple": {
+                            "allow": false,
+                            "separators": ".."
+                        },
+                        "hasMask": false,
+                        "format": {
+                            "mask": ""
+                        },
+                        "timePickerOptionsDefined": false,
+                        "display": false
+                    },
+                    "displayAsSlider": false,
+                    "precalc": {
+                        "controlHTMLInPanelCard": "in panel card",
+                        "javascript_viewBoxData": "{dialog.object}._viewBoxData['VIEWBOX5'] = [[dialog.viewBoxData.viewbox5]]; ",
+                        "javascript_viewBoxSettings": "{dialog.object}._viewBoxSettings['VIEWBOX5'] = [[dialog.viewBoxSettings.viewbox5]]; ",
+                        "javascript_viewBox": "{dialog.object}._controls['VIEWBOX5'] =  { type: 'viewBox',  data: {dialog.object}._viewBoxData['VIEWBOX5'],  onInitialize: function() { if(this._onInitialize) {this._onInitialize();} },  settings: {dialog.object}._viewBoxSettings['VIEWBOX5'] }",
+                        "javascriptAbstractSetupCode": ""
+                    },
+                    "flags": {
+                        "clientSideDefinition": false
+                    }
+                },
+                "precalc": {
+                    "ControlHTML": "<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX5\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX5\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox5</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX5\" name=\"V.R{grid.rownumber}.VIEWBOX5\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX5.CONTROL\"  class=\"{grid.componentName}_VIEWBOX5\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>",
+                    "DesignViewHTML": "",
+                    "columnInfo": "'VIEWBOX5': {info: {controlType: 'ViewBox'}, hiddenVal: false, type: 'control', isCalc: false, hlp: '', isArray: false, dataType: 'C'  }\n"
+                }
+            },
+            {
+                "controltype": "layout_directive_ContainerEnd",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=f1c3424c_956c_402e_b729_a965f083437d}{I:'vertLineCap'} [Container End: CONTAINER_4]",
+                "displayODFlat": "{Data=f1c3424c_956c_402e_b729_a965f083437d}{I:'$$format.border.style.dash'} [Container End]",
+                "idInternal": "f1c3424c_956c_402e_b729_a965f083437d",
+                "containerStartIndex": 10,
+                "parentContainer": -1,
+                "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=f1c3424c_956c_402e_b729_a965f083437d}{I:'vertLineCap'} [Container End]",
+                "repeatingSectionParentId": -1,
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=f1c3424c_956c_402e_b729_a965f083437d}{I:'vertLineCap'} [Container End: CONTAINER_4]",
+                "indentTree": 0,
+                "precalc": {
+                    "ControlHTML": "<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n",
+                    "DesignViewHTML": ""
+                },
+                "crc": "4294933218",
+                "v": {
+                    "container": {
+                        "BreakType": "None",
+                        "BreakHeight": ".1in",
+                        "breakHorizontalSpace": ".1in"
+                    }
+                }
+            }
+        ],
+        "_style_versionNumber": 4,
+        "_style_hasSassOverrides": false,
+        "_style_hasCSSTweaks": false,
+        "_style_hasCSS_or_subtheme_tweaks": false,
+        "style_type": "Alpha Five",
+        "resolveAbstractClassNames": true,
+        "customTabOrder": "",
+        "builderVersionNumber": 1,
+        "overrideStyleName": "Default",
+        "useCompactTheme": false,
+        "FontSize": "Medium",
+        "LocalCss": "<style type=\"text/css\">\n.a-9 {\n    max-width: 716px !important;\n    margin: 0px auto !important;    \n}\n</style>",
+        "styleTweaksCSS": "",
+        "styleTweaksSubthemes": "",
+        "A5ContainerClassPadding": "0px",
+        "A5ContainerClassPaddingForContainerWidthMode": "4px",
+        "controlflowdirection": "ltr",
+        "CSSLinkedFiles": "https://s3-eu-west-1.amazonaws.com/dds-officer/style-image.css,https://s3-eu-west-1.amazonaws.com/dds-officer/Ashobiz/200/src/css/ashobiz.base.css,https://s3-eu-west-1.amazonaws.com/dds-officer/Ashobiz/200/src/css/ashobiz-9.css",
+        "SVGLinkedFiles": "",
+        "localsvg": "",
+        "createAppCacheVersion": false,
+        "createAppCacheVersionC": "No",
+        "appcache": {
+            "pageName": "<Default>",
+            "pageTitle": "",
+            "hasHomeScreenIcons": false,
+            "homeScreenIconName": "",
+            "icons": {
+                "precomposed": false
+            },
+            "pageHeadSection": ""
+        },
+        "layoutType": "ContainerWidth",
+        "previewMode": "Default",
+        "useDragScrolling": "Auto",
+        "pageTitle": "UX",
+        "waitMsg": {
+            "message": {
+                "text": "Wait...",
+                "waitIcon": "css/A5System/Images/wait.gif"
+            },
+            "cssAnimation": {
+                "size": "32"
+            }
+        },
+        "globalSettings": {
+            "labelWidth": "1in"
+        },
+        "serverSideEvents": {
+            "canAjaxCallback": "",
+            "afterAjaxCallback": ""
+        },
+        "onTimerEventInterval": 60,
+        "securityDeniedAction": "Redirect to login page",
+        "clientSideEvents": {
+            "onAjaxCallbackFailed": "",
+            "onAjaxCallbackNotAvailable": "",
+            "onAjaxCallbackNotAllowed": "",
+            "onServerSideEventHandlerError": "",
+            "onFieldValidationError": "",
+            "beforePrepare": "",
+            "afterPrepare": "",
+            "afterValidate": "",
+            "onTabPaneChanged": "",
+            "beforeRptSectionRowPrepare": "",
+            "afterRptSectionRowPrepare": "",
+            "canRptSectionRowAdd": "",
+            "afterRptSectionRowAdd": "",
+            "canRptSectionRowDelete": "",
+            "afterRptSectionRowDelete": "",
+            "onStateChange": "",
+            "onDataStateChange": "",
+            "afterControlBasedOnClientSideDataCacheRefreshed": "",
+            "onControlFocus": "",
+            "onRptSectionFocus": "",
+            "onRptSectionRowChange": "",
+            "canResetForm": "",
+            "afterResetForm": "",
+            "canRecordNavigate": "",
+            "afterRecordNavigate": "",
+            "onSynchronizeDialog": "",
+            "afterPopulateFromTable": "",
+            "onRenderComplete": "",
+            "onAndroidBackButton": "",
+            "onPanelActivate": "",
+            "afterSaveToRepository": "",
+            "afterLoadFromRepository": "",
+            "afterGoogleVisualization": "",
+            "canDeleteParentRecord": "",
+            "afterDeleteParentRecord": "",
+            "onOrientationChange": "",
+            "onKeyboard": "",
+            "onCordovaReady": "",
+            "onPhoneGapReady": "",
+            "onImageError": "",
+            "onSignatureCaptureToggle": "",
+            "onSignatureCaptureAccept": "",
+            "onTimer": "",
+            "beforeOnTimer": "",
+            "canLogin": "",
+            "afterLogin": "",
+            "afterFailedLogin": "",
+            "canLogout": "",
+            "afterLogout": "",
+            "onSessionTimeoutWarning": "",
+            "onServerSideListSummaryCompute": "",
+            "beforeHTMLReportExport": "",
+            "onConnectionChange": "",
+            "appCache_cached": "",
+            "appCache_checking": "",
+            "appCache_downloading": "",
+            "appCache_error": "",
+            "appCache_noupdate": "",
+            "appCache_obsolete": "",
+            "appCache_progress": "",
+            "appCache_updateready": "",
+            "onControlBlur": "",
+            "onControlChange": "",
+            "onBeforePersistControlValuesToLocalStorage": "",
+            "onPersistControlValuesToLocalStorage": "",
+            "onRestoreVariablesFromLocalStorage": "",
+            "onRestoreComponentStateFromLocalStorage": "",
+            "localStorageEncryption": "",
+            "localStorageDecryption": "",
+            "securityNotAuthenticated": "",
+            "securityPermissionDenied": "",
+            "webSocketOnMessage": "",
+            "webSocketServerClose": "",
+            "webSocketSendMessageFail": "",
+            "afterGoogleAddressSelect": "",
+            "onBeforeClientSideDataCacheRead": "",
+            "afterClientSideDataCacheAjaxCallback": "",
+            "onWatchEvent": "",
+            "_canAjaxCallback": "",
+            "__afterAjaxCallbackComplete": ""
+        },
+        "onlyValidateChangedFields": true,
+        "edit": {
+            "field_error_style": {
+                "type": "Block",
+                "showWarning": true,
+                "icon": "<Specified by Style>",
+                "controlContainer_classname": ""
+            },
+            "row_errors_window_title": "Error",
+            "row_errors_window_style": "color: red; width: 6in; height: 2in;",
+            "fieldValidationErrorMessage": "Form has errors."
+        },
+        "submitDialogIfHasClientSideValidationErrors": true,
+        "activeLanguage": "<Default>",
+        "datePicker": {
+            "dayNames": "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+            "monthNames": "January,February,March,April,May,June,July,August,September,October,November,December",
+            "firstDayOfWeek": 1,
+            "todayButtonText": "Today",
+            "closeButtonText": "Close"
+        },
+        "clientSideDateFormat": "MM/dd/yyyy",
+        "clientsideNumberFormatDecimal": "period",
+        "clientsideNumberFormatThousands": "comma",
+        "fontScalingOption": "All",
+        "helpTableType": "DBF",
+        "fieldHelpWindowStyle": "modal-resizeable",
+        "customization": {
+            "resetFormMessage": "Are you sure you want to reset the form?",
+            "resetFormTitle": "Warning",
+            "resetFormIcon": "<Specified by Style>",
+            "resetFormYesButton": "Yes",
+            "resetFormNoButton": "No",
+            "windowTitleDirection": "ltr",
+            "dirtyWarning": "You must first save your changes or cancel changes by clicking the Reset button.",
+            "dirtyWarningTitle": "Notice",
+            "dirtyWarningIcon": "<Specified by Style>",
+            "deleteRecordWarningTitle": "Delete Record",
+            "deleteRecordWarningMessage": "Are you sure you want to delete this record?"
+        },
+        "dataBinding": {
+            "computeDataBindingCodeAtDesignTimePrompt": "Prompt",
+            "autoRefreshSchemaOnLoad": true,
+            "autoRefreshPromptFirst": "Prompt"
+        },
+        "dataSeriesPublishToClientSide": false,
+        "captureJSErrorStackTrace": false,
+        "flagShowCommentsInTree": true,
+        "treeCommentOffset": "6",
+        "showLineNumbersInControlsList": false,
+        "renderUXLocation": {
+            "type": "window",
+            "sizeToElement": true
+        },
+        "saveFileType": "Formatted JSON",
+        "keyboardShortcutsJSON": "",
+        "checkSessionEvery": 1,
+        "warningIntervalBeforeExpiration": 1,
+        "sessionTimeOutWarningMessage": "Your session will expire in {secondsToSessionEnd} seconds. Click the button to extend your session.",
+        "sessionExtendSessionButtonLabel": "Extend Session",
+        "sessionTimeoutWarningDialogTitle": "Warning",
+        "sessionHasExpiredMessage": "Your session has expired.",
+        "sessionHasExpiredButtonLabel": "OK",
+        "sessionHasExpiredAction": "Nothing",
+        "sessionHasExpiredRedirectPage": "<self>",
+        "sessionHasExpiredDialogTitle": "Notice",
+        "sessionHasExpiredOKButtonJavascript": "<ReloadThisPage>",
+        "login": {
+            "errorMessageStyle": "color: red;",
+            "logoutDoesFullPageReload": true
+        },
+        "applyResponsiveDesignSettings": true,
+        "responseDesignRulesMode": "FirstTrue",
+        "localStorage": {
+            "namespace": "<Default>",
+            "variablesToNotPersist": "",
+            "__version": 1,
+            "workingPreviewTestingMode": "Browser"
+        },
+        "preRenderComputeWhen": "Every time component is saved",
+        "preRenderWarningMessageShow": true,
+        "autoSetPreRenderOnForAllUX": false,
+        "selected": "52e4c041_441b_4a6e_8cd7_c17bae1d4508\n",
+        "designPaneIndex": 1,
+        "masterPaneC": "TabbedUIProps",
+        "serverSideEventIndex": 1,
+        "clientSideEventIndex": 1,
+        "clientSideEventIndexC": "1",
+        "lastControlSelected": "insert_dialog_viewbox",
+        "__WPhostName": "Internet Explorer",
+        "embeddedMode": false,
+        "_style_hassubthemeTweaks": false,
+        "__idinternalCurrentControl": "52e4c041_441b_4a6e_8cd7_c17bae1d4508",
+        "__nameCurrentControl": "viewbox4",
+        "repeatingSectionsAreDirty": true,
+        "flagDropdownCascadingChanged": false,
+        "precalc": {
+            "viewBoxSettings": {
+                "viewbox4": "{\n\t\"inputId\": \"viewbox4\",\n\t\"variableName\": \"VIEWBOX4\",\n\t\"theme\": \"{dialog.style}\",\n\t\"animation\": {\n\t\t\"allow\": true\n\t},\n\t\"multiple\": false,\n\t\"loopNavigate\": false,\n\t\"loopNavigateNullSelection\": true,\n\t\"allowNullSelection\": false,\n\t\"allowTextSelection\": false,\n\t\"allowNullDeselection\": false,\n\t\"autoRefresh\": false,\n\t\"allowAnyValue\": false,\n\t\"captureFocus\": true,\n\t\"scroll\": false,\n\t\"layout\": \"default\",\n\t\"layouts\": {\n\t\t'default' : {\n\t\t\ttype: 'static',\n\t\t\thtml: [\n\t\t\t'<div class=\"imagemk\">',\n\t\t\t'',\n\t\t\t'\\t\\t      ',\n\t\t\t'',\n\t\t\t'\\t\\t      <h2mk><spanmk>Breaking News:<spanmk class=\"spacer\">&nbsp;</spanmk><br><spanmk class=\"spacer\">&nbsp;</spanmk>Hippies Love America!</spanmk></h2mk>',\n\t\t\t'',\n\t\t\t'\\t\\t</div>'\n\t\t\t].join('')\n\t\t}\n\t\n\t},\n\t\"_onInitialize\": function() { $acn(this.contId,'{dialog.ComponentName}_' + this.variableName); },\n\t\"items\": {\n\t\t\n\t\t}\n}",
+                "viewbox2": "{\n\t\"inputId\": \"viewbox2\",\n\t\"variableName\": \"VIEWBOX2\",\n\t\"theme\": \"{dialog.style}\",\n\t\"animation\": {\n\t\t\"allow\": true\n\t},\n\t\"multiple\": false,\n\t\"loopNavigate\": false,\n\t\"loopNavigateNullSelection\": true,\n\t\"allowNullSelection\": false,\n\t\"allowTextSelection\": false,\n\t\"allowNullDeselection\": false,\n\t\"autoRefresh\": false,\n\t\"allowAnyValue\": false,\n\t\"captureFocus\": true,\n\t\"scroll\": false,\n\t\"layout\": \"default\",\n\t\"layouts\": {\n\t\t'default' : {\n\t\t\ttype: 'static',\n\t\t\thtml: [\n\t\t\t'<div class=\"a-9 a-bg-blue\">',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<!-- Left -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<div class=\"a-9-l\">',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<h3>Basic</h3>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Small Heading -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<h2><span>$</span>99<span>/m</span></h2>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Button -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<a href=\"#\" class=\"a-9-b\">Buy Now</a>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<!-- Content -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<div class=\"a-9-r\">\\t',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Item -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading with data in \"span\" tag -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Users<span>1,200</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Visitors<span>1000</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Clients<span>1,500</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Bandwidth<span>1GB</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Storage<span>2GB</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Emails<span>2</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- More items here -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t</div>'\n\t\t\t].join('')\n\t\t}\n\t\n\t},\n\t\"_onInitialize\": function() { $acn(this.contId,'{dialog.ComponentName}_' + this.variableName); },\n\t\"items\": {\n\t\t\n\t\t}\n}",
+                "viewbox3": "{\n\t\"inputId\": \"viewbox3\",\n\t\"variableName\": \"VIEWBOX3\",\n\t\"theme\": \"{dialog.style}\",\n\t\"animation\": {\n\t\t\"allow\": true\n\t},\n\t\"multiple\": false,\n\t\"loopNavigate\": false,\n\t\"loopNavigateNullSelection\": true,\n\t\"allowNullSelection\": false,\n\t\"allowTextSelection\": false,\n\t\"allowNullDeselection\": false,\n\t\"autoRefresh\": false,\n\t\"allowAnyValue\": false,\n\t\"captureFocus\": true,\n\t\"scroll\": false,\n\t\"layout\": \"default\",\n\t\"layouts\": {\n\t\t'default' : {\n\t\t\ttype: 'static',\n\t\t\thtml: [\n\t\t\t'<div class=\"a-9 a-bg-blue\">',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<!-- Left -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<div class=\"a-9-l\">',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<h3>Basic</h3>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Small Heading -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<h2><span>$</span>99<span>/m</span></h2>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Button -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<a href=\"#\" class=\"a-9-b\">Buy Now</a>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<!-- Content -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<div class=\"a-9-r\">\\t',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Item -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading with data in \"span\" tag -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Users<span>1,200</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Visitors<span>1000</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Clients<span>1,500</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Bandwidth<span>1GB</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Storage<span>2GB</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Emails<span>2</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- More items here -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t</div>'\n\t\t\t].join('')\n\t\t}\n\t\n\t},\n\t\"_onInitialize\": function() { $acn(this.contId,'{dialog.ComponentName}_' + this.variableName); },\n\t\"items\": {\n\t\t\n\t\t}\n}",
+                "viewbox5": "{\n\t\"inputId\": \"viewbox5\",\n\t\"variableName\": \"VIEWBOX5\",\n\t\"theme\": \"{dialog.style}\",\n\t\"animation\": {\n\t\t\"allow\": true\n\t},\n\t\"multiple\": false,\n\t\"loopNavigate\": false,\n\t\"loopNavigateNullSelection\": true,\n\t\"allowNullSelection\": false,\n\t\"allowTextSelection\": false,\n\t\"allowNullDeselection\": false,\n\t\"autoRefresh\": false,\n\t\"allowAnyValue\": false,\n\t\"captureFocus\": true,\n\t\"scroll\": false,\n\t\"layout\": \"default\",\n\t\"layouts\": {\n\t\t'default' : {\n\t\t\ttype: 'static',\n\t\t\thtml: [\n\t\t\t'<div class=\"a-9 a-bg-blue\">',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<!-- Left -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<div class=\"a-9-l\">',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<h3>Basic</h3>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Small Heading -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<h2><span>$</span>99<span>/m</span></h2>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Button -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<a href=\"#\" class=\"a-9-b\">Buy Now</a>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<!-- Content -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t<div class=\"a-9-r\">\\t',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- Item -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<!-- Heading with data in \"span\" tag -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Users<span>1,200</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Visitors<span>1000</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Clients<span>1,500</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Bandwidth<span>1GB</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Storage<span>2GB</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t\\t<h4>Emails<span>2</span></h4>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t\\t<!-- More items here -->',\n\t\t\t'\\t\\t\\t\\t\\t\\t\\t</div>',\n\t\t\t'\\t\\t\\t\\t\\t\\t</div>'\n\t\t\t].join('')\n\t\t}\n\t\n\t},\n\t\"_onInitialize\": function() { $acn(this.contId,'{dialog.ComponentName}_' + this.variableName); },\n\t\"items\": {\n\t\t\n\t\t}\n}"
+            },
+            "viewBoxSettings2": {
+                "viewbox4": {
+                    "javascriptFunctions": "",
+                    "css": "#{dialog.componentName}\\.V\\.R1\\.viewbox4 {\n\ndiv.wrapper{\n\tfloat:left; /* important */\n\tposition:relative; /* important(so we can absolutely position the description div */\n}\ndiv.description{\n\tposition:absolute; /* absolute position (so we can position it where we want)*/\n\tbottom:0px; /* position will be on bottom */\n\tleft:0px;\n\twidth:100%;\n\t/* styling bellow */\n\tbackground-color:black;\n\tcolor:white;\n\topacity:0.6; /* transparency */\n\tfilter:alpha(opacity=60); /* IE transparency */\n}\np.description_content{\n\tpadding:10px;\n\tmargin:0px;\n\tfont-size: 30px;\n}\n\n}"
+                },
+                "viewbox2": {
+                    "javascriptFunctions": "",
+                    "css": "#{dialog.componentName}\\.V\\.R1\\.viewbox2 {\n\n}"
+                },
+                "viewbox3": {
+                    "javascriptFunctions": "",
+                    "css": "#{dialog.componentName}\\.V\\.R1\\.viewbox3 {\n\n}"
+                },
+                "viewbox5": {
+                    "javascriptFunctions": "",
+                    "css": "#{dialog.componentName}\\.V\\.R1\\.viewbox5 {\n\n}"
+                }
+            },
+            "js_editorSetInitialization": ";\n",
+            "customControl": {
+                "js_beforePrepare": "",
+                "js_afterRender": "",
+                "customControl_xbasicFunctions": ""
+            },
+            "jschart": {
+                "js_beforePrepare": "",
+                "js_afterRender": "",
+                "jschart_xbasicFunctions": ""
+            },
+            "viewBoxesToRefresh": "",
+            "rgraph": {
+                "libraries": ""
+            },
+            "getSetFunctions": {
+                "js_beforePrepare": ""
+            },
+            "injectibleHTML": "",
+            "containerWindowHTML": "",
+            "repeatingsectionInfoJs": "",
+            "framesInfoJS": "{dialog.object}.framesInfo = {\n\n};\n",
+            "jsActionJavascriptGlobalFunctions": "",
+            "xbActionJavascriptGlobalFunctions": "",
+            "javascriptSetupForGridLookups": "{\n}",
+            "javascript": {
+                "showWaitMessage": "",
+                "hideWaitMessage": "",
+                "embeddedUXComponents": ""
+            },
+            "fileUpload_controlInfo": "",
+            "javascript_cascadingDropdowns": "{dialog.object}._cascadingControls = [];\n{dialog.object}._cascadingControlsChildren = [];",
+            "template_html": "<!--div GLOBALERRORS-->\n<div class=\"errorTip\" style=\"margin-bottom: 2px; display: none; width: 8in; \" id=\"{dialog.componentname}.GLOBALERRORS\"></div>\n<!--End div GLOBALERRORS-->\n\n<div id=\"{dialog.componentname}.R1\">\n<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_1\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; height: auto; \"  ><!--DIV for Container control-->\n<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX2\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX2\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox2</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX2\" name=\"V.R{grid.rownumber}.VIEWBOX2\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX2.CONTROL\"  class=\"{grid.componentName}_VIEWBOX2\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>\n<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n\n<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_2\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; height: auto; \"  ><!--DIV for Container control-->\n<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX3\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX3\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox3</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX3\" name=\"V.R{grid.rownumber}.VIEWBOX3\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX3.CONTROL\"  class=\"{grid.componentName}_VIEWBOX3\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>\n<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n\n<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_3\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; \"  ><!--DIV for Container control-->\n<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX4\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX4\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox1</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX4\" name=\"V.R{grid.rownumber}.VIEWBOX4\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX4.CONTROL\"  class=\"{grid.componentName}_VIEWBOX4\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>\n<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n\n<div \tid=\"{dialog.componentName}.V.R{dialog.rownumber}.CONTAINER_4\"   \n\t\t\tclass=\"A5CWLayout \"  style=\"width: 50%; height: auto; \"  ><!--DIV for Container control-->\n<div class=\"A5CWLayout\" style=\"width: 4in\" >\n\t<!--LblS--><label id=\"{grid.componentname}.LBL.R{grid.rownumber}.VIEWBOX5\" for=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX5\" title=\"\" class=\"[class.dialogFieldLabel]\" style=\"display:block;\">Viewbox5</label>\n<!--LblE-->\n\t<!--FldS--><!--JSControlStart--><input type=\"hidden\" id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX5\" name=\"V.R{grid.rownumber}.VIEWBOX5\" /><!--JSControlEnd-->\n<div >\n\t<div id=\"{grid.componentname}.V.R{grid.rownumber}.VIEWBOX5.CONTROL\"  class=\"{grid.componentName}_VIEWBOX5\" style=\"overflow: auto; width: 100%; height: 3in; \"></div>\n</div>\n<!--FldE-->\n</div>\n<div style=\"font: 0pt arial;clear:both;\"></div>\n\t</div>\n\n\n\n</div>\n<!--div DEBUGUPDATECOMMANDS-->\n<div class=\"\" style=\"display: none; \" id=\"{dialog.componentname}.DEBUGUPDATECOMMANDS\"></div>\n<!--End div DEBUGUPDATECOMMANDS-->\n",
+            "panelDisplayNames": "",
+            "controlJavascript": "",
+            "controlJavascriptRepeatingSections": "",
+            "template_js": "",
+            "sessionVarsInShowHideExpns": "",
+            "flagHasShowTimer": false,
+            "themeSearchReplaceString": "",
+            "flagHasHTML5ImageCapture": false,
+            "flagUsesCordova": false,
+            "flagUseAmazonS3FileUpload": false,
+            "flagUseStripe": false,
+            "usesSystemSVG": false,
+            "flagUseAudioPlayer": false,
+            "flagUseInk": false,
+            "flagUsesAudioLibrary": false,
+            "flagUsesPhoneGapFileSystemFunctions": false,
+            "flagUsesGetAccurateLocation": false,
+            "editorSet_for_editor": "{dialog.object}._EDITOR_EDITORSET = {};",
+            "otherJS": "",
+            "javascript_layoutRules": "",
+            "javascript_controlNesting": "{\nCONTAINER_1: ['viewbox2'],\nCONTAINER_2: ['viewbox3'],\nCONTAINER_3: ['viewbox4'],\nCONTAINER_4: ['viewbox5']\n}",
+            "appcacheEvents": ""
+        },
+        "toolBox_value": "",
+        "addinBuildNumber": "4978",
+        "addinBuildNumberHighestUsed": "4978",
+        "alphaFiveBuildNumber": "12",
+        "openedFromTemplate": false,
+        "builtWithVersionNumer": 1,
+        "_buildCount": "64",
+        "securityEnabled": false,
+        "showHideIsUsed": false,
+        "__flagHasMacro": false,
+        "FieldsInRepeatingSectionsDeletedBySecurity": "",
+        "repeatingSectionsToRecalc": "",
+        "dialogObject": "if(typeof {dialog.componentName}_DlgObj == 'object') {dialog.componentName}_DlgObj._destroy();\nvar {dialog.componentName}_DlgObj = new A5.DialogComponentHelper('{dialog.componentName}',{\n\tajaxURL: '{dialog.ajaxUrl}',\n\t_embeddedMode: {dialog.embeddedMode},\n\t_livePreviewInBuilder: {livePreviewInBuilder},\n\tcomponentGUID: '701bcb75-576c-485c-aa09-051bf143e307',\n\tcolumnInfo: {columninfo},\n\toriginalValues: {dialog.jsOriginalValues},\n\tdefaultValues: {dialog.jsDefaultValues},\n\tdatePickerMonthNames: [{datePickerMonthNames}],\n\tdatePickerDayNames: [{datePickerDayNames}],\n\tdatePickerTodayButton: '{datePickerTodayButton}',\n\tdatePickerCloseButton: '{datePickerCloseButton}',\n\tdatePickerFirstDayOfWeek: {datePickerFirstDayOfWeek},\n\tresetFormMessage: '{resetFormMessage}',\n\tresetFormTitle: '{resetFormTitle}',\n\tresetFormIcon: '{resetFormIcon}',\n\tdirtyFormMessage: '{dirtyFormMessage}',\n\tdirtyFormTitle: '{dirtyFormTitle}',\n\tdirtyFormIcon: '{dirtyFormIcon}',\n\tdeleteRecordDialogTitle: '{deleteRecordTitle}',\n\tdeleteRecordDialogMessage: '{deleteRecordMessage}',\t\n\tssDateFormat: '{serverSideDateFormat}',\n\tstyleName: '{dialog.style}',\n\t_fieldHelpers_DIALOG2: [],\n\tparentComponentAlias: '{parentComponentAlias}',\n\tsubmitIfHasClientSideErrors: true, \n\trowErrors: {\n\t\t\t\tshowMessageBox: false,\n\t\t\t\tmessageBoxTitle: 'Error',\n\t\t\t\tstyle: 'color: red; width: 6in; height: 2in;'\n\t\t},\n\tfieldErrors: {\n\t\ttype: 'block', \n\t\tclassName: 'errorText',\n\t\tinputClassName: '[class.gridInputError]',\n\t\tedit: { \n\t\t\tcontainer: { className: '[class.gridInputContainerError]'}\n\t\t},\n\t\ticon: '{images.dialog.editError}',\n\t\tglobal: {\n\t\t\tcontId: '{dialog.componentname}.GLOBALERRORS',\n\t\t\thoverClassName: 'errorTextHighlight',\n\t\t\thoverInputClassName: 'errorInputHighlight'\n\t\t}\n\t}\n\n\t});\n\n",
+        "xbasiccode": {
+            "blankInitialValueIfVarNotFound": "",
+            "setValueProperties": "value.VIEWBOX2=\"\"\nvalue.VIEWBOX3=\"\"\nvalue.VIEWBOX4=\"\"\nvalue.VIEWBOX5=\"\"",
+            "setValueProperties2": "value.VIEWBOX2=\"\"\nvalue.VIEWBOX3=\"\"\nvalue.VIEWBOX4=\"\"\nvalue.VIEWBOX5=\"\"",
+            "setValueUnformattedProperties": "value.VIEWBOX2=convert_type(\"\",\"C\")\nvalue.VIEWBOX3=convert_type(\"\",\"C\")\nvalue.VIEWBOX4=convert_type(\"\",\"C\")\nvalue.VIEWBOX5=convert_type(\"\",\"C\")\n"
+        },
+        "componentType": "Dialog2",
+        "version": 1,
+        "recNav": {
+            "slider": {
+                "showSlider": false
+            }
+        },
+        "A5SaveTimeStamp": "20171011175739983",
+        "Livepreview_permissions": "",
+        "livePreview_permissions_friendly": "",
+        "__allowCascadingRecalc": true,
+        "_flagDoTreeview": true,
+        "containerSubTypeNew": "",
+        "containerSubTypeOld": ""
+    }
+}
